@@ -1,34 +1,43 @@
 import os
 import re
 import datetime
+import random # For random selection
 
 def update_readme():
     """
-    Scans the current directory for subfolders named after problem ratings (e.g., '800', '900').
-    It then lists all .cpp, .py, or .java files within these folders, extracts problem details
-    (name, URL, language), and generates a README.md file, categorizing problems by their rating.
-    It also includes problem counts.
+    Scans the current directory for problem solutions, extracts details,
+    and generates a comprehensive README.md file.
+    Features: Problem Links, Counts, Language, Random Spotlight,
+    Difficulty Analysis (Tags), Search/Filter, Learning Path, Contribution.
     """
-    readme_header = "# Codeforces Problems\n\n" \
-                    "This repository contains my solutions to Codeforces problems, organized by rating.\n\n"
-
-    all_problems_data = {} # To store problems: {rating: [(problem_name, url, language, filename), ...]}
-    total_problems_count = 0
-
-    # Define a mapping for file extensions to language names
+    
+    # --- Configuration ---
+    # Languages recognized by file extension
     language_map = {
         '.cpp': 'C++',
         '.py': 'Python',
         '.java': 'Java',
-        # Add more extensions and languages if needed
+        '.c': 'C',
+        '.go': 'Go',
+        '.js': 'JavaScript', # For Node.js solutions
+        # Add more extensions as needed
     }
+
+    # --- Data Collection ---
+    all_problems_data = {} # {rating: [(problem_name, url, language, filename, tags), ...]}
+    problems_by_tag = {}   # {tag: [(problem_name, url, language, filename), ...]}
+    total_problems_count = 0
+    all_problem_items = [] # To store all problem data for random selection
 
     # Iterate through all items in the current directory
     for item in os.listdir('.'):
         # Check if it's a directory and its name is a digit (representing a rating)
         if os.path.isdir(item) and item.isdigit():
             rating = int(item)
-            problems_in_rating = []
+            
+            # Ensure the rating exists in our primary data structure
+            if rating not in all_problems_data:
+                all_problems_data[rating] = []
 
             # Iterate through files within the rating folder
             for file_name in os.listdir(item):
@@ -38,15 +47,16 @@ def update_readme():
                 ext = os.path.splitext(file_name)[1].lower()
                 if os.path.isfile(file_path) and ext in language_map:
                     
-                    problem_name = file_name # Default to filename if name not found
+                    problem_name = os.path.splitext(file_name)[0] # Default to filename without extension
                     problem_url = "#"      # Default to a local anchor if URL not found
-                    language = language_map.get(ext, "Unknown") # Get language from map
+                    language = language_map.get(ext, "Unknown")
+                    tags_found = []
                     
-                    # Try to extract Problem Name and URL from file content
+                    # Try to extract Problem Name, URL, and Tags from file content
                     try:
                         with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
-                            # Read first few lines for efficiency
-                            lines = [f.readline() for _ in range(10)] # Read up to 10 lines
+                            # Read first few lines for efficiency (up to 20 lines should be enough for headers)
+                            lines = [f.readline() for _ in range(20)]
                             content = "".join(lines)
 
                             # Regex to find Problem Name
@@ -58,53 +68,122 @@ def update_readme():
                             url_match = re.search(r'(?:URL:|# URL:)\s*(https?://[^\s]+)', content, re.IGNORECASE)
                             if url_match:
                                 problem_url = url_match.group(1).strip()
-                            elif problem_name and not url_match: # Fallback to Codeforces standard if name is found but URL isn't
-                                # Attempts to construct a URL if problem name has contest/problem ID pattern
-                                # This is a heuristic and might not always work perfectly without full context.
-                                contest_problem_match = re.search(r'([A-Za-z]?\d+)[A-Za-z]?$', problem_name)
-                                if contest_problem_match:
-                                    # This part is highly heuristic. Codeforces URLs are structured
-                                    # like contestID/problemID. If you always name your files consistently,
-                                    # for example, using "contestID_problemLetter.cpp" (e.g., 123A.cpp),
-                                    # you might try to parse contest ID from filename.
-                                    # For more robust linking, manual URL in file is best.
-                                    pass # Stick to default '#' or rely on explicitly written URL in file
-                                
+                            
+                            # Regex to find Tags
+                            tag_match = re.search(r'(?:Tag:|# Tag:)\s*(.+)', content, re.IGNORECASE)
+                            if tag_match:
+                                raw_tags = tag_match.group(1).split(',')
+                                tags_found = sorted([tag.strip() for tag in raw_tags if tag.strip()])
+
                     except Exception as e:
                         print(f"Warning: Could not read or parse '{file_path}': {e}")
                     
-                    problems_in_rating.append((problem_name, problem_url, language, file_name))
+                    # Store problem data
+                    problem_data = (problem_name, problem_url, language, file_name, tags_found, rating)
+                    all_problems_data[rating].append(problem_data)
+                    all_problem_items.append(problem_data) # Add to list for random selection
                     total_problems_count += 1
-            
-            if problems_in_rating: # Only add if there are problems in this rating
-                all_problems_data[rating] = sorted(problems_in_rating, key=lambda x: x[0].lower()) # Sort problems alphabetically
 
-    # --- Construct README Content ---
-    readme_content = readme_header
-    
-    # Add Total Problems Badge (Feature 5 - text-based)
-    readme_content += f"![Total Problems](https://img.shields.io/badge/Total_Problems-{total_problems_count}-blue)\n\n"
-    
-    readme_content += "## Problems by Rating\n\n"
+                    # Populate problems_by_tag
+                    for tag in tags_found:
+                        if tag not in problems_by_tag:
+                            problems_by_tag[tag] = []
+                        problems_by_tag[tag].append(problem_data)
 
-    # Sort ratings in ascending order to display them nicely
-    for rating in sorted(all_problems_data.keys()):
-        problems = all_problems_data[rating]
-        readme_content += f"### Rating: {rating} ({len(problems)} Problems)\n\n" # Feature 2: Problem Count
+    # Sort problems within each rating (alphabetically by problem name)
+    for rating in all_problems_data:
+        all_problems_data[rating] = sorted(all_problems_data[rating], key=lambda x: x[0].lower())
 
-        for problem_name, problem_url, language, original_filename in problems:
-            # Feature 1 (Problem Link) & Feature 4 (Language)
-            readme_content += f"* [{problem_name}]({problem_url}) ({language})\n"
-        readme_content += "\n"
-    
-    # Add a footer with last updated timestamp
-    readme_content += f"\n---\n*README generated on {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC*"
+    # Sort problems within each tag (alphabetically by problem name)
+    for tag in problems_by_tag:
+        problems_by_tag[tag] = sorted(problems_by_tag[tag], key=lambda x: x[0].lower())
+
+    # --- README Content Generation ---
+    readme_content = []
+
+    # 1. Main Header
+    readme_content.append("# My Codeforces Journey 🚀\n")
+    readme_content.append("Welcome to my competitive programming journey on Codeforces! This repository "
+                          "showcases my solved problems, organized by rating and algorithmic concept.\n\n")
+
+    # 2. Overall Statistics & Badges (Feature: Problems per Rating Category / Statistics)
+    readme_content.append("## 📊 Journey Statistics\n")
+    readme_content.append(f"![Total Problems Solved](https://img.shields.io/badge/Total_Problems-{total_problems_count}-blue)\n\n")
+
+    if all_problems_data:
+        readme_content.append("### Problem Distribution by Rating:\n")
+        # Simple text-based bar chart or just counts
+        for rating in sorted(all_problems_data.keys()):
+            num_problems = len(all_problems_data[rating])
+            readme_content.append(f"- **Rating {rating}:** {num_problems} problems\n")
+        readme_content.append("\n")
+
+    # 3. Problem of the Day/Week Spotlight (Feature: Random Spotlight)
+    if all_problem_items:
+        random_problem = random.choice(all_problem_items)
+        rp_name, rp_url, rp_lang, _, _, rp_rating = random_problem
+        readme_content.append("## ✨ Spotlight Problem\n")
+        readme_content.append(f"Feeling lucky? Here's a random problem from my collection:\n")
+        readme_content.append(f"* **[{rp_name}]({rp_url})** (Rating: {rp_rating}, Language: {rp_lang})\n\n")
 
 
-    # Write the generated content to README.md
+    # 4. Search/Filter Instructions (Feature)
+    readme_content.append("## 🔍 How to Explore\n")
+    readme_content.append("You can easily navigate through the problems:\n")
+    readme_content.append("- **By Rating:** Browse the sections below for problems grouped by Codeforces rating.\n")
+    readme_content.append("- **By Concept/Tag:** Find problems categorized by the algorithms or data structures they use.\n")
+    readme_content.append("- **GitHub Search:** Use GitHub's search bar (at the top of the repository page) to quickly find specific problem names or keywords within my solutions.\n\n")
+
+    # 5. Problems by Rating (Feature: Rating Wise)
+    readme_content.append("## 🏆 Problems by Rating\n")
+    if not all_problems_data:
+        readme_content.append("No problems found categorized by rating yet.\n\n")
+    else:
+        for rating in sorted(all_problems_data.keys()):
+            problems = all_problems_data[rating]
+            readme_content.append(f"### Rating: {rating} ({len(problems)} Problems)\n\n")
+            for problem_name, problem_url, language, original_filename, _, _ in problems:
+                readme_content.append(f"* [{problem_name}]({problem_url}) ({language})\n")
+            readme_content.append("\n")
+
+    # 6. Problems by Concept/Tag (Feature: Difficulty Analysis)
+    readme_content.append("## 🧩 Problems by Concept/Tag\n")
+    if not problems_by_tag:
+        readme_content.append("No problems found with specific tags yet. Add `// Tag: YourTag1, YourTag2` to your solution files!\n\n")
+    else:
+        # Sort tags alphabetically
+        for tag in sorted(problems_by_tag.keys()):
+            problems = problems_by_tag[tag]
+            readme_content.append(f"### {tag} ({len(problems)} problems)\n\n")
+            for problem_name, problem_url, language, original_filename, _, _ in problems:
+                readme_content.append(f"* [{problem_name}]({problem_url}) ({language})\n")
+            readme_content.append("\n")
+
+    # 7. A "Learning Path" Section (Feature)
+    readme_content.append("## 🗺️ My Learning Path & Advice\n")
+    readme_content.append("This section reflects my journey and how I approach learning competitive programming. "
+                          "It might serve as a guide for others!\n\n")
+    readme_content.append("### Suggested Learning Progression:\n")
+    readme_content.append("- **Start with Basics (Rating 800-1000):** Focus on implementation, basic math, and simple data structures. Get comfortable with problem reading and input/output.\n")
+    readme_content.append("- **Dive into Core Algorithms (Rating 1000-1400):** Explore Dynamic Programming (DP), Graph Traversal (BFS/DFS), Binary Search, Two Pointers, and Greedy algorithms. Practice problems specifically tagged with these concepts.\n")
+    readme_content.append("- **Advanced Topics (Rating 1400+):** Branch out into more complex data structures (Segment Trees, Fenwick Trees), advanced graph algorithms (Dijkstra, Floyd-Warshall), number theory, combinatorics, and flow algorithms. Pay attention to time and space complexity.\n")
+    readme_content.append("- **Consistency is Key:** Solve problems regularly, participate in contests, and always review solutions (even if you solve them) to learn new tricks.\n\n")
+
+
+    # 8. Contribution Guidelines (Feature)
+    readme_content.append("## 🤝 Contributions & Feedback\n")
+    readme_content.append("While this is primarily a personal repository, I welcome feedback and suggestions!\n")
+    readme_content.append("- **Spot an optimization or a bug?** Feel free to open an [issue](https://github.com/Angkon-Kar/Codeforces-Journey/issues) or a [pull request](https://github.com/Angkon-Kar/Codeforces-Journey/pulls).\n")
+    readme_content.append("- **Have questions about a solution?** Don't hesitate to ask by opening an issue.\n")
+    readme_content.append("- **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.\n\n")
+
+    # Footer with Timestamp
+    readme_content.append("---\n")
+    readme_content.append(f"*README generated on {datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M:%S')} UTC*\n")
+
+    # Write the combined content to README.md
     with open('README.md', 'w', encoding='utf-8') as f:
-        f.write(readme_content)
+        f.write("".join(readme_content))
 
 if __name__ == "__main__":
     update_readme()
-    
