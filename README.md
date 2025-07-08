@@ -9,7 +9,7 @@ Welcome to my competitive programming journey on Codeforces! This repository sho
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Summation](https://codeforces.com/contest/4/problem/A)** (Rating: 800, Language: C++)
+* **[A. Watermelon](https://codeforces.com/contest/4/problem/A)** (Rating: 800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -20,10 +20,16 @@ You can easily navigate through the problems:
 ## 🏆 Problems by Rating
 ### Rating: 800 (1 Problems)
 
-* [A. Summation](https://codeforces.com/contest/4/problem/A) (C++)
+* [A. Watermelon](https://codeforces.com/contest/4/problem/A) (C++)
 
 ## 🧩 Problems by Concept/Tag
-No problems found with specific tags yet. Add `// Tag: YourTag1, YourTag2` to your solution files!
+### Brute Force (1 problems)
+
+* [A. Watermelon](https://codeforces.com/contest/4/problem/A) (C++)
+
+### Math (1 problems)
+
+* [A. Watermelon](https://codeforces.com/contest/4/problem/A) (C++)
 
 ## 🗺️ My Learning Path & Advice
 This section reflects my journey and how I approach learning competitive programming. It might serve as a guide for others!
@@ -41,4 +47,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-07-08 21:49:10 UTC*
+*README generated on 2025-07-08 21:55:34 UTC*
