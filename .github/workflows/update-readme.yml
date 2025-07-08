@@ -1,0 +1,40 @@
+name: Update Codeforces README
+
+on:
+  push:
+    branches:
+      - main # Trigger this workflow whenever there's a push to the 'main' branch
+      # If your default branch is 'master', change 'main' to 'master'
+  schedule:
+    - cron: '0 0 * * *' # Also run daily at midnight UTC, just in case a manual push is missed
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest # Run on a Linux environment provided by GitHub Actions
+
+    steps:
+    - name: Checkout repository # Step 1: Get your repository's code
+      uses: actions/checkout@v4
+
+    - name: Set up Python # Step 2: Install Python environment
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x' # Use the latest Python 3 version
+
+    - name: Run script to update README # Step 3: Execute your Python script
+      run: python update_readme.py
+
+    - name: Commit and push changes # Step 4: Add, commit, and push the updated README.md
+      run: |
+        git config user.name "GitHub Actions" # Set the committer's name
+        git config user.email "actions@github.com" # Set the committer's email (a generic one)
+        
+        # Check if there are any changes to README.md. If not, 'git commit' will fail.
+        # '|| echo "No changes to commit"' prevents the step from failing if README is already up-to-date.
+        git add README.md
+        git commit -m "Auto-update README.md with latest problems [skip ci]" || echo "No changes to commit"
+        
+        # Push the changes. The GITHUB_TOKEN secret is automatically provided by GitHub.
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
