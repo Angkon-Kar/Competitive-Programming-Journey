@@ -2,10 +2,10 @@
 Welcome to my competitive programming journey on Codeforces! This repository showcases my solved problems, organized by rating and algorithmic concept.
 
 ## 📊 Journey Statistics
-![Total Problems Solved](https://img.shields.io/badge/Total_Problems-2-blue)
+![Total Problems Solved](https://img.shields.io/badge/Total_Problems-3-blue)
 
 ### Problem Distribution by Rating:
-- **Rating 800:** 2 problems
+- **Rating 800:** 3 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
@@ -18,15 +18,21 @@ You can easily navigate through the problems:
 - **GitHub Search:** Use GitHub's search bar (at the top of the repository page) to quickly find specific problem names or keywords within my solutions.
 
 ## 🏆 Problems by Rating
-### Rating: 800 (2 Problems)
+### Rating: 800 (3 Problems)
 
+* [A. Team](https://codeforces.com/problemset/problem/231/A) (C++)
 * [A. Watermelon](https://codeforces.com/contest/4/problem/A) (C++)
 * [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) (C++)
 
 ## 🧩 Problems by Concept/Tag
-### Brute Force (1 problems)
+### Brute Force (2 problems)
 
+* [A. Team](https://codeforces.com/problemset/problem/231/A) (C++)
 * [A. Watermelon](https://codeforces.com/contest/4/problem/A) (C++)
+
+### Greedy (1 problems)
+
+* [A. Team](https://codeforces.com/problemset/problem/231/A) (C++)
 
 ### Math (1 problems)
 
@@ -52,4 +58,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-07-08 22:03:52 UTC*
+*README generated on 2025-07-08 22:10:45 UTC*
