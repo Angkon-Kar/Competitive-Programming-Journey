@@ -1,6 +1,7 @@
-// Problem: A. Summation
-// Contest: Codeforces Round 4 (Div. 2)
+// Problem: A. Watermelon
+// Contest: Codeforces Round #4 (Div. 2)
 // URL: https://codeforces.com/contest/4/problem/A
+// Tag: Brute Force, Math
 // Memory Limit: 64 Megabytes
 // Time Limit: 1 Second
 
