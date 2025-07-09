@@ -10,7 +10,7 @@ Welcome to my competitive programming journey on Codeforces! This repository sho
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A)** (Rating: 800, Language: C++)
+* **[A. Next Round](https://codeforces.com/problemset/problem/158/A)** (Rating: 800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -30,7 +30,7 @@ You can easily navigate through the problems:
 
 ### Rating: 900 (1 Problems)
 
-* [A_Football](#) (C++)
+* [A. Football](https://codeforces.com/problemset/problem/96/A) (C++)
 
 ## 🧩 Problems by Concept/Tag
 ### Brute Force (2 problems)
@@ -42,9 +42,10 @@ You can easily navigate through the problems:
 
 * [A. Team](https://codeforces.com/problemset/problem/231/A) (C++)
 
-### Implementation (3 problems)
+### Implementation (4 problems)
 
 * [A. Bit++](https://codeforces.com/problemset/problem/282/A) (C++)
+* [A. Football](https://codeforces.com/problemset/problem/96/A) (C++)
 * [A. Next Round](https://codeforces.com/problemset/problem/158/A) (C++)
 * [A. Word](https://codeforces.com/problemset/problem/59/A) (C++)
 
@@ -56,8 +57,9 @@ You can easily navigate through the problems:
 
 * [A. Next Round](https://codeforces.com/problemset/problem/158/A) (C++)
 
-### Strings (2 problems)
+### Strings (3 problems)
 
+* [A. Football](https://codeforces.com/problemset/problem/96/A) (C++)
 * [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) (C++)
 * [A. Word](https://codeforces.com/problemset/problem/59/A) (C++)
 
@@ -77,4 +79,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-07-09 15:57:34 UTC*
+*README generated on 2025-07-09 16:06:49 UTC*
