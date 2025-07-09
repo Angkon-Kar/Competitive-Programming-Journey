@@ -2,10 +2,11 @@
 Welcome to my competitive programming journey on Codeforces! This repository showcases my solved problems, organized by rating and algorithmic concept.
 
 ## 📊 Journey Statistics
-![Total Problems Solved](https://img.shields.io/badge/Total_Problems-6-blue)
+![Total Problems Solved](https://img.shields.io/badge/Total_Problems-7-blue)
 
 ### Problem Distribution by Rating:
 - **Rating 800:** 6 problems
+- **Rating 900:** 1 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
@@ -26,6 +27,10 @@ You can easily navigate through the problems:
 * [A. Watermelon](https://codeforces.com/contest/4/problem/A) (C++)
 * [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) (C++)
 * [A. Word](https://codeforces.com/problemset/problem/59/A) (C++)
+
+### Rating: 900 (1 Problems)
+
+* [A_Football](#) (C++)
 
 ## 🧩 Problems by Concept/Tag
 ### Brute Force (2 problems)
@@ -72,4 +77,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-07-09 15:56:10 UTC*
+*README generated on 2025-07-09 15:57:34 UTC*
