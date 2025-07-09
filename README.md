@@ -2,14 +2,14 @@
 Welcome to my competitive programming journey on Codeforces! This repository showcases my solved problems, organized by rating and algorithmic concept.
 
 ## 📊 Journey Statistics
-![Total Problems Solved](https://img.shields.io/badge/Total_Problems-4-blue)
+![Total Problems Solved](https://img.shields.io/badge/Total_Problems-5-blue)
 
 ### Problem Distribution by Rating:
-- **Rating 800:** 4 problems
+- **Rating 800:** 5 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Team](https://codeforces.com/problemset/problem/231/A)** (Rating: 800, Language: C++)
+* **[A. Word](https://codeforces.com/problemset/problem/59/A)** (Rating: 800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -18,12 +18,13 @@ You can easily navigate through the problems:
 - **GitHub Search:** Use GitHub's search bar (at the top of the repository page) to quickly find specific problem names or keywords within my solutions.
 
 ## 🏆 Problems by Rating
-### Rating: 800 (4 Problems)
+### Rating: 800 (5 Problems)
 
 * [A. Bit++](https://codeforces.com/problemset/problem/282/A) (C++)
 * [A. Team](https://codeforces.com/problemset/problem/231/A) (C++)
 * [A. Watermelon](https://codeforces.com/contest/4/problem/A) (C++)
 * [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) (C++)
+* [A. Word](https://codeforces.com/problemset/problem/59/A) (C++)
 
 ## 🧩 Problems by Concept/Tag
 ### Brute Force (2 problems)
@@ -35,17 +36,19 @@ You can easily navigate through the problems:
 
 * [A. Team](https://codeforces.com/problemset/problem/231/A) (C++)
 
-### Implementation (1 problems)
+### Implementation (2 problems)
 
 * [A. Bit++](https://codeforces.com/problemset/problem/282/A) (C++)
+* [A. Word](https://codeforces.com/problemset/problem/59/A) (C++)
 
 ### Math (1 problems)
 
 * [A. Watermelon](https://codeforces.com/contest/4/problem/A) (C++)
 
-### Strings (1 problems)
+### Strings (2 problems)
 
 * [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) (C++)
+* [A. Word](https://codeforces.com/problemset/problem/59/A) (C++)
 
 ## 🗺️ My Learning Path & Advice
 This section reflects my journey and how I approach learning competitive programming. It might serve as a guide for others!
@@ -63,4 +66,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-07-09 11:55:46 UTC*
+*README generated on 2025-07-09 15:34:01 UTC*
