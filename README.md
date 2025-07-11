@@ -10,7 +10,7 @@ Welcome to my competitive programming journey on Codeforces! This repository sho
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Watermelon](https://codeforces.com/contest/4/problem/A)** (Rating: 800, Language: C++)
+* **[A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A)** (Rating: 800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -22,12 +22,12 @@ You can easily navigate through the problems:
 ### Rating: 800 (7 Problems)
 
 * [A. Bit++](https://codeforces.com/problemset/problem/282/A) (C++)
+* [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (C++)
 * [A. Next Round](https://codeforces.com/problemset/problem/158/A) (C++)
 * [A. Team](https://codeforces.com/problemset/problem/231/A) (C++)
 * [A. Watermelon](https://codeforces.com/contest/4/problem/A) (C++)
 * [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) (C++)
 * [A. Word](https://codeforces.com/problemset/problem/59/A) (C++)
-* [A_Domino piling](#) (C++)
 
 ### Rating: 900 (1 Problems)
 
@@ -39,8 +39,9 @@ You can easily navigate through the problems:
 * [A. Team](https://codeforces.com/problemset/problem/231/A) (C++)
 * [A. Watermelon](https://codeforces.com/contest/4/problem/A) (C++)
 
-### Greedy (1 problems)
+### Greedy (2 problems)
 
+* [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (C++)
 * [A. Team](https://codeforces.com/problemset/problem/231/A) (C++)
 
 ### Implementation (4 problems)
@@ -50,8 +51,9 @@ You can easily navigate through the problems:
 * [A. Next Round](https://codeforces.com/problemset/problem/158/A) (C++)
 * [A. Word](https://codeforces.com/problemset/problem/59/A) (C++)
 
-### Math (1 problems)
+### Math (2 problems)
 
+* [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (C++)
 * [A. Watermelon](https://codeforces.com/contest/4/problem/A) (C++)
 
 ### Special Problem (1 problems)
@@ -80,4 +82,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-07-11 11:43:08 UTC*
+*README generated on 2025-07-11 11:46:10 UTC*
