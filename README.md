@@ -2,15 +2,15 @@
 Welcome to my competitive programming journey on Codeforces! This repository showcases my solved problems, organized by rating and algorithmic concept.
 
 ## 📊 Journey Statistics
-![Total Problems Solved](https://img.shields.io/badge/Total_Problems-8-blue)
+![Total Problems Solved](https://img.shields.io/badge/Total_Problems-9-blue)
 
 ### Problem Distribution by Rating:
-- **Rating 800:** 7 problems
+- **Rating 800:** 8 problems
 - **Rating 900:** 1 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A)** (Rating: 800, Language: C++)
+* **[A. Bit++](https://codeforces.com/problemset/problem/282/A)** (Rating: 800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -19,7 +19,7 @@ You can easily navigate through the problems:
 - **GitHub Search:** Use GitHub's search bar (at the top of the repository page) to quickly find specific problem names or keywords within my solutions.
 
 ## 🏆 Problems by Rating
-### Rating: 800 (7 Problems)
+### Rating: 800 (8 Problems)
 
 * [A. Bit++](https://codeforces.com/problemset/problem/282/A) (C++)
 * [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (C++)
@@ -28,6 +28,7 @@ You can easily navigate through the problems:
 * [A. Watermelon](https://codeforces.com/contest/4/problem/A) (C++)
 * [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) (C++)
 * [A. Word](https://codeforces.com/problemset/problem/59/A) (C++)
+* [A_Beautiful Matrix](#) (C++)
 
 ### Rating: 900 (1 Problems)
 
@@ -82,4 +83,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-07-11 11:46:10 UTC*
+*README generated on 2025-07-11 11:50:12 UTC*
