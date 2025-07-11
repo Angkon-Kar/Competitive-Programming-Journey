@@ -10,7 +10,7 @@ Welcome to my competitive programming journey on Codeforces! This repository sho
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Bit++](https://codeforces.com/problemset/problem/282/A)** (Rating: 800, Language: C++)
+* **[A. Next Round](https://codeforces.com/problemset/problem/158/A)** (Rating: 800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -21,6 +21,7 @@ You can easily navigate through the problems:
 ## 🏆 Problems by Rating
 ### Rating: 800 (8 Problems)
 
+* [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) (C++)
 * [A. Bit++](https://codeforces.com/problemset/problem/282/A) (C++)
 * [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (C++)
 * [A. Next Round](https://codeforces.com/problemset/problem/158/A) (C++)
@@ -28,7 +29,6 @@ You can easily navigate through the problems:
 * [A. Watermelon](https://codeforces.com/contest/4/problem/A) (C++)
 * [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) (C++)
 * [A. Word](https://codeforces.com/problemset/problem/59/A) (C++)
-* [A_Beautiful Matrix](#) (C++)
 
 ### Rating: 900 (1 Problems)
 
@@ -45,8 +45,9 @@ You can easily navigate through the problems:
 * [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (C++)
 * [A. Team](https://codeforces.com/problemset/problem/231/A) (C++)
 
-### Implementation (4 problems)
+### Implementation (5 problems)
 
+* [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) (C++)
 * [A. Bit++](https://codeforces.com/problemset/problem/282/A) (C++)
 * [A. Football](https://codeforces.com/problemset/problem/96/A) (C++)
 * [A. Next Round](https://codeforces.com/problemset/problem/158/A) (C++)
@@ -83,4 +84,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-07-11 11:50:12 UTC*
+*README generated on 2025-07-11 11:51:52 UTC*
