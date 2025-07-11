@@ -2,15 +2,15 @@
 Welcome to my competitive programming journey on Codeforces! This repository showcases my solved problems, organized by rating and algorithmic concept.
 
 ## 📊 Journey Statistics
-![Total Problems Solved](https://img.shields.io/badge/Total_Problems-10-blue)
+![Total Problems Solved](https://img.shields.io/badge/Total_Problems-11-blue)
 
 ### Problem Distribution by Rating:
-- **Rating 800:** 9 problems
+- **Rating 800:** 10 problems
 - **Rating 900:** 1 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Football](https://codeforces.com/problemset/problem/96/A)** (Rating: 900, Language: C++)
+* **[A. Petya and Strings](https://codeforces.com/problemset/problem/112/A)** (Rating: 800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -19,11 +19,12 @@ You can easily navigate through the problems:
 - **GitHub Search:** Use GitHub's search bar (at the top of the repository page) to quickly find specific problem names or keywords within my solutions.
 
 ## 🏆 Problems by Rating
-### Rating: 800 (9 Problems)
+### Rating: 800 (10 Problems)
 
 * [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) (C++)
 * [A. Bit++](https://codeforces.com/problemset/problem/282/A) (C++)
 * [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (C++)
+* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (C++)
 * [A. Next Round](https://codeforces.com/problemset/problem/158/A) (C++)
 * [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) (C++)
 * [A. Team](https://codeforces.com/problemset/problem/231/A) (C++)
@@ -41,16 +42,18 @@ You can easily navigate through the problems:
 * [A. Team](https://codeforces.com/problemset/problem/231/A) (C++)
 * [A. Watermelon](https://codeforces.com/contest/4/problem/A) (C++)
 
-### Greedy (2 problems)
+### Greedy (3 problems)
 
 * [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (C++)
+* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (C++)
 * [A. Team](https://codeforces.com/problemset/problem/231/A) (C++)
 
-### Implementation (6 problems)
+### Implementation (7 problems)
 
 * [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) (C++)
 * [A. Bit++](https://codeforces.com/problemset/problem/282/A) (C++)
 * [A. Football](https://codeforces.com/problemset/problem/96/A) (C++)
+* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (C++)
 * [A. Next Round](https://codeforces.com/problemset/problem/158/A) (C++)
 * [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) (C++)
 * [A. Word](https://codeforces.com/problemset/problem/59/A) (C++)
@@ -60,13 +63,18 @@ You can easily navigate through the problems:
 * [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (C++)
 * [A. Watermelon](https://codeforces.com/contest/4/problem/A) (C++)
 
+### Sortings (1 problems)
+
+* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (C++)
+
 ### Special Problem (1 problems)
 
 * [A. Next Round](https://codeforces.com/problemset/problem/158/A) (C++)
 
-### Strings (4 problems)
+### Strings (5 problems)
 
 * [A. Football](https://codeforces.com/problemset/problem/96/A) (C++)
+* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (C++)
 * [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) (C++)
 * [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) (C++)
 * [A. Word](https://codeforces.com/problemset/problem/59/A) (C++)
@@ -87,4 +95,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-07-11 12:05:23 UTC*
+*README generated on 2025-07-11 12:09:06 UTC*
