@@ -17,7 +17,7 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Next Round](https://codeforces.com/problemset/problem/158/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Next Round.cpp)) (Platform: Codeforces, Category: 800, Language: C++) - Last Updated: 2025-07-13
+* **[A. Domino piling](https://codeforces.com/problemset/problem/50/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Domino piling.cpp)) (Platform: Codeforces, Category: 800, Language: C++) - Last Updated: 2025-07-13
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -33,7 +33,7 @@ You can easily navigate through the problems:
 * [A. Bit++](https://codeforces.com/problemset/problem/282/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Bit++.cpp)) (C++) - Last Updated: 2025-07-13
 * [A. Domino piling](https://codeforces.com/problemset/problem/50/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Domino piling.cpp)) (C++) - Last Updated: 2025-07-13
 * [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Helpful_Maths.cpp)) (C++) - Last Updated: 2025-07-13
-* [A. Next Round](https://codeforces.com/problemset/problem/158/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Next Round.cpp)) (C++) - Last Updated: 2025-07-13
+* [A. Next Round](https://codeforces.com/problemset/problem/158/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Next_Round.cpp)) (C++) - Last Updated: 2025-07-13
 * [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Petya_and_Strings.cpp)) (C++) - Last Updated: 2025-07-13
 * [A. Team](https://codeforces.com/problemset/problem/231/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Team.cpp)) (C++) - Last Updated: 2025-07-13
 * [A. Watermelon](https://codeforces.com/contest/4/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Watermelon.cpp)) (C++) - Last Updated: 2025-07-13
@@ -104,4 +104,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-07-13 18:12:03 UTC*
+*README generated on 2025-07-13 18:27:19 UTC*
