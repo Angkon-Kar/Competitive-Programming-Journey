@@ -10,7 +10,7 @@ Welcome to my competitive programming journey on Codeforces! This repository sho
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)** (Rating: 800, Language: C++)
+* **[A. Next Round](https://codeforces.com/problemset/problem/158/A)** (Rating: 800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -95,4 +95,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-07-12 01:11:51 UTC*
+*README generated on 2025-07-13 01:16:42 UTC*
