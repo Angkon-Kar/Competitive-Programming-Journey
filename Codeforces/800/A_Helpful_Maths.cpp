@@ -1,9 +1,6 @@
 // Problem: A. Helpful Maths
-// Contest: Codeforces Round #197 (Div. 2)
 // URL: https://codeforces.com/problemset/problem/339/A
 // Tag: Greedy, Implementation, Sortings, Strings
-// Memory Limit: 256 Megabytes
-// Time Limit: 2 Second
 
 #include <iostream>
 #include <algorithm>

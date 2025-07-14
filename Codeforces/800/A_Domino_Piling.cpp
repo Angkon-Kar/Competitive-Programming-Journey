@@ -1,9 +1,6 @@
 // Problem: A. Domino piling
-// Contest: Codeforces Beta Round 47
 // URL: https://codeforces.com/problemset/problem/50/A
 // Tag: Greedy, Math
-// Memory Limit: 256 Megabytes
-// Time Limit: 2 Second
 
 #include <iostream>
 using namespace std;

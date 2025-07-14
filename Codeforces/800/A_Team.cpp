@@ -1,9 +1,6 @@
 // Problem: A. Team
-// Contest: Codeforces Round #143 (Div. 2)
 // URL: https://codeforces.com/problemset/problem/231/A
 // Tag: Brute Force, Greedy
-// Memory Limit: 256 Megabytes
-// Time Limit: 2 Second
 
 #include<iostream>
 using namespace std;

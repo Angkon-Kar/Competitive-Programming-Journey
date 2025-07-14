@@ -1,9 +1,6 @@
 // Problem: A. Bit++
-// Contest: Codeforces Round #173 (Div. 2)
 // URL: https://codeforces.com/problemset/problem/282/A
 // Tag: Implementation
-// Memory Limit: 256 Megabytes
-// Time Limit: 1 Second
 
 #include<iostream>
 using namespace std;

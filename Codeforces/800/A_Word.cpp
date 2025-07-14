@@ -1,9 +1,6 @@
 // Problem: A. Word
-// Contest: Codeforces Round #55 (Div. 2)
 // URL: https://codeforces.com/problemset/problem/59/A
 // Tag: Implementation, Strings
-// Memory Limit: 256 Megabytes
-// Time Limit: 2 Second
 
 #include <iostream>
 using namespace std;

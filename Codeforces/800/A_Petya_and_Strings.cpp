@@ -1,9 +1,6 @@
 // Problem: A. Petya and Strings
-// Contest: Codeforces Round #85 (Div. 2)
 // URL: https://codeforces.com/problemset/problem/112/A
 // Tag: Implementation, Strings
-// Memory Limit: 256 Megabytes
-// Time Limit: 2 Second
 
 #include <iostream>
 #include <string.h>
