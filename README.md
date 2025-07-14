@@ -2,22 +2,23 @@
 Welcome to my comprehensive collection of solutions from various online judges! This repository showcases problems solved on platforms like Codeforces, LeetCode, Beecrowd, HackerRank, and HackerEarth, organized by platform, rating/difficulty, and algorithmic concept.
 
 ## 📊 Journey Statistics
-![Total Problems Solved](https://img.shields.io/badge/Total_Problems-11-blue)
+![Total Problems Solved](https://img.shields.io/badge/Total_Problems-12-blue)
 
 ### Problem Distribution:
-- **Codeforces:** 11 problems
+- **Codeforces:** 12 problems
+  - *1000:* 1 problems
   - *800:* 10 problems
   - *900:* 1 problems
 
 ### Language Usage
-- **C++:** 100.0% (11 problems)
+- **C++:** 100.0% (12 problems)
 
 ### Solving Trend (Problems Solved by Month)
-- **2025-07:** 11 problems
+- **2025-07:** 12 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Beautiful_Matrix.cpp)) (Platform: Codeforces, Category: 800, Language: C++) - Last Updated: 2025-07-14
+* **[A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Way_Too_Long_Words.cpp)) (Platform: Codeforces, Category: 800, Language: C++) - Last Updated: 2025-07-14
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -27,6 +28,10 @@ You can easily navigate through the problems:
 
 ## 🌐 Problems by Platform & Category
 ### Codeforces
+#### Rating: 1000 (1 Problems)
+
+* [C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/1000/C_Prefix_Min_and_Suffix_Max.cpp)) (C++) - Last Updated: 2025-07-14
+
 #### Rating: 800 (10 Problems)
 
 * [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Beautiful_Matrix.cpp)) (C++) - Last Updated: 2025-07-14
@@ -45,10 +50,15 @@ You can easily navigate through the problems:
 * [A. Football](https://codeforces.com/problemset/problem/96/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/900/A_Football.cpp)) (C++) - Last Updated: 2025-07-14
 
 ## 🧩 Problems by Concept/Tag
-### Brute Force (2 problems)
+### Brute Force (3 problems)
 
 * [A. Team](https://codeforces.com/problemset/problem/231/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
 * [A. Watermelon](https://codeforces.com/contest/4/problem/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
+* [C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) (Platform: Codeforces, Category: 1000, Lang: C++) - Last Updated: 2025-07-14
+
+### Data Structures (1 problems)
+
+* [C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) (Platform: Codeforces, Category: 1000, Lang: C++) - Last Updated: 2025-07-14
 
 ### Greedy (3 problems)
 
@@ -104,4 +114,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-07-14 01:13:33 UTC*
+*README generated on 2025-07-14 11:45:06 UTC*
