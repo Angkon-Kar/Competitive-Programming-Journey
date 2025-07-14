@@ -3,6 +3,7 @@
     "files.associations": {
         "algorithm": "cpp",
         "limits": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "xiosbase": "cpp"
     }
 }
