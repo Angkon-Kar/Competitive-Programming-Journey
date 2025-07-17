@@ -1,6 +1,5 @@
 // Problem: Hello World!
 // URL: https://judge.beecrowd.com/en/problems/view/1000
-// Tag:
 
 #include <iostream>
 using namespace std;
