@@ -2,23 +2,23 @@
 Welcome to my comprehensive collection of solutions from various online judges! This repository showcases problems solved on platforms like Codeforces, LeetCode, Beecrowd, HackerRank, and HackerEarth, organized by platform, rating/difficulty, and algorithmic concept.
 
 ## 📊 Journey Statistics
-![Total Problems Solved](https://img.shields.io/badge/Total_Problems-14-blue)
+![Total Problems Solved](https://img.shields.io/badge/Total_Problems-15-blue)
 
 ### Problem Distribution:
-- **Codeforces:** 14 problems
+- **Codeforces:** 15 problems
   - *1000:* 1 problems
-  - *800:* 12 problems
+  - *800:* 13 problems
   - *900:* 1 problems
 
 ### Language Usage
-- **C++:** 100.0% (14 problems)
+- **C++:** 100.0% (15 problems)
 
 ### Solving Trend (Problems Solved by Month)
-- **2025-07:** 14 problems
+- **2025-07:** 15 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Next Round](https://codeforces.com/problemset/problem/158/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Next_Round.cpp)) (Platform: Codeforces, Category: 800, Language: C++) - Last Updated: 2025-07-14
+* **[A. Word](https://codeforces.com/problemset/problem/59/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Word.cpp)) (Platform: Codeforces, Category: 800, Language: C++) - Last Updated: 2025-07-17
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -30,76 +30,81 @@ You can easily navigate through the problems:
 ### Codeforces
 #### Rating: 1000 (1 Problems)
 
-* [C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/1000/C_Prefix_Min_and_Suffix_Max.cpp)) (C++) - Last Updated: 2025-07-14
+* [C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/1000/C_Prefix_Min_and_Suffix_Max.cpp)) (C++) - Last Updated: 2025-07-17
 
-#### Rating: 800 (12 Problems)
+#### Rating: 800 (13 Problems)
 
-* [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Beautiful_Matrix.cpp)) (C++) - Last Updated: 2025-07-14
-* [A. Bit++](https://codeforces.com/problemset/problem/282/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Bit++.cpp)) (C++) - Last Updated: 2025-07-14
-* [A. Blackboard Game](https://codeforces.com/contest/2123/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Blackboard_Game.cpp)) (C++) - Last Updated: 2025-07-14
-* [A. Domino piling](https://codeforces.com/problemset/problem/50/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Domino_Piling.cpp)) (C++) - Last Updated: 2025-07-14
-* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Helpful_Maths.cpp)) (C++) - Last Updated: 2025-07-14
-* [A. Next Round](https://codeforces.com/problemset/problem/158/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Next_Round.cpp)) (C++) - Last Updated: 2025-07-14
-* [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Petya_and_Strings.cpp)) (C++) - Last Updated: 2025-07-14
-* [A. Team](https://codeforces.com/problemset/problem/231/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Team.cpp)) (C++) - Last Updated: 2025-07-14
-* [A. Watermelon](https://codeforces.com/contest/4/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Watermelon.cpp)) (C++) - Last Updated: 2025-07-14
-* [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Way_Too_Long_Words.cpp)) (C++) - Last Updated: 2025-07-14
-* [A. Word](https://codeforces.com/problemset/problem/59/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Word.cpp)) (C++) - Last Updated: 2025-07-14
-* [B. Tournament](https://codeforces.com/contest/2123/problem/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/B_Tournament.cpp)) (C++) - Last Updated: 2025-07-14
+* [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Beautiful_Matrix.cpp)) (C++) - Last Updated: 2025-07-17
+* [A. Bit++](https://codeforces.com/problemset/problem/282/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Bit++.cpp)) (C++) - Last Updated: 2025-07-17
+* [A. Blackboard Game](https://codeforces.com/contest/2123/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Blackboard_Game.cpp)) (C++) - Last Updated: 2025-07-17
+* [A. Domino piling](https://codeforces.com/problemset/problem/50/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Domino_Piling.cpp)) (C++) - Last Updated: 2025-07-17
+* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Helpful_Maths.cpp)) (C++) - Last Updated: 2025-07-17
+* [A. Next Round](https://codeforces.com/problemset/problem/158/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Next_Round.cpp)) (C++) - Last Updated: 2025-07-17
+* [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Petya_and_Strings.cpp)) (C++) - Last Updated: 2025-07-17
+* [A. Team](https://codeforces.com/problemset/problem/231/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Team.cpp)) (C++) - Last Updated: 2025-07-17
+* [A. Watermelon](https://codeforces.com/contest/4/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Watermelon.cpp)) (C++) - Last Updated: 2025-07-17
+* [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Way_Too_Long_Words.cpp)) (C++) - Last Updated: 2025-07-17
+* [A. Word](https://codeforces.com/problemset/problem/59/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Word.cpp)) (C++) - Last Updated: 2025-07-17
+* [B. Shrink](https://codeforces.com/contest/2117/problem/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/B_Shrink.cpp)) (C++) - Last Updated: 2025-07-17
+* [B. Tournament](https://codeforces.com/contest/2123/problem/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/B_Tournament.cpp)) (C++) - Last Updated: 2025-07-17
 
 #### Rating: 900 (1 Problems)
 
-* [A. Football](https://codeforces.com/problemset/problem/96/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/900/A_Football.cpp)) (C++) - Last Updated: 2025-07-14
+* [A. Football](https://codeforces.com/problemset/problem/96/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/900/A_Football.cpp)) (C++) - Last Updated: 2025-07-17
 
 ## 🧩 Problems by Concept/Tag
 ### Brute Force (3 problems)
 
-* [A. Team](https://codeforces.com/problemset/problem/231/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
-* [A. Watermelon](https://codeforces.com/contest/4/problem/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
-* [C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) (Platform: Codeforces, Category: 1000, Lang: C++) - Last Updated: 2025-07-14
+* [A. Team](https://codeforces.com/problemset/problem/231/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
+* [A. Watermelon](https://codeforces.com/contest/4/problem/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
+* [C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) (Platform: Codeforces, Category: 1000, Lang: C++) - Last Updated: 2025-07-17
+
+### Constructive Algorithms (1 problems)
+
+* [B. Shrink](https://codeforces.com/contest/2117/problem/B) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
 
 ### Data Structures (1 problems)
 
-* [C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) (Platform: Codeforces, Category: 1000, Lang: C++) - Last Updated: 2025-07-14
+* [C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) (Platform: Codeforces, Category: 1000, Lang: C++) - Last Updated: 2025-07-17
 
 ### Greedy (4 problems)
 
-* [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
-* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
-* [A. Team](https://codeforces.com/problemset/problem/231/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
-* [B. Tournament](https://codeforces.com/contest/2123/problem/B) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
+* [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
+* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
+* [A. Team](https://codeforces.com/problemset/problem/231/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
+* [B. Tournament](https://codeforces.com/contest/2123/problem/B) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
 
 ### Implementation (7 problems)
 
-* [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
-* [A. Bit++](https://codeforces.com/problemset/problem/282/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
-* [A. Football](https://codeforces.com/problemset/problem/96/A) (Platform: Codeforces, Category: 900, Lang: C++) - Last Updated: 2025-07-14
-* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
-* [A. Next Round](https://codeforces.com/problemset/problem/158/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
-* [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
-* [A. Word](https://codeforces.com/problemset/problem/59/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
+* [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
+* [A. Bit++](https://codeforces.com/problemset/problem/282/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
+* [A. Football](https://codeforces.com/problemset/problem/96/A) (Platform: Codeforces, Category: 900, Lang: C++) - Last Updated: 2025-07-17
+* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
+* [A. Next Round](https://codeforces.com/problemset/problem/158/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
+* [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
+* [A. Word](https://codeforces.com/problemset/problem/59/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
 
 ### Math (3 problems)
 
-* [A. Blackboard Game](https://codeforces.com/contest/2123/problem/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
-* [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
-* [A. Watermelon](https://codeforces.com/contest/4/problem/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
+* [A. Blackboard Game](https://codeforces.com/contest/2123/problem/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
+* [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
+* [A. Watermelon](https://codeforces.com/contest/4/problem/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
 
 ### Sortings (1 problems)
 
-* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
+* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
 
 ### Special Problem (1 problems)
 
-* [A. Next Round](https://codeforces.com/problemset/problem/158/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
+* [A. Next Round](https://codeforces.com/problemset/problem/158/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
 
 ### Strings (5 problems)
 
-* [A. Football](https://codeforces.com/problemset/problem/96/A) (Platform: Codeforces, Category: 900, Lang: C++) - Last Updated: 2025-07-14
-* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
-* [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
-* [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
-* [A. Word](https://codeforces.com/problemset/problem/59/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-14
+* [A. Football](https://codeforces.com/problemset/problem/96/A) (Platform: Codeforces, Category: 900, Lang: C++) - Last Updated: 2025-07-17
+* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
+* [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
+* [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
+* [A. Word](https://codeforces.com/problemset/problem/59/A) (Platform: Codeforces, Category: 800, Lang: C++) - Last Updated: 2025-07-17
 
 ## 🗺️ My Learning Path & Advice
 This section reflects my approach to learning competitive programming across various platforms. It might serve as a guide for others!
@@ -118,4 +123,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-07-14 18:41:42 UTC*
+*README generated on 2025-07-17 01:12:02 UTC*
