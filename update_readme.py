@@ -152,6 +152,16 @@ def update_unified_readme():
                           "This repository showcases problems solved on platforms like Codeforces, LeetCode, Beecrowd, HackerRank, and HackerEarth, "
                           "organized by platform, rating/difficulty, and algorithmic concept.\n\n")
 
+    # --- Add Table of Contents Here ---
+    readme_content.append("## Table of Contents\n")
+    readme_content.append("- [📊 Journey Statistics](#-journey-statistics)\n")
+    readme_content.append("- [✨ Spotlight Problem](#-spotlight-problem)\n")
+    readme_content.append("- [🌐 Problems by Platform & Category](#-problems-by-platform--category)\n")
+    readme_content.append("- [🧩 Problems by Concept/Tag](#-problems-by-concepttag)\n")
+    readme_content.append("- [🗺️ My Learning Path & Advice](#️-my-learning-path--advice)\n")
+    readme_content.append("- [🤝 Contributions & Feedback](#-contributions--feedback)\n")
+    readme_content.append("\n") # Add a blank line for better spacing after TOC
+
     # 2. Overall Statistics & Badges
     readme_content.append("## 📊 Journey Statistics\n")
     readme_content.append(f"![Total Problems Solved](https://img.shields.io/badge/Total_Problems-{total_problems_count}-blue)\n\n")
@@ -189,7 +199,7 @@ def update_unified_readme():
     # 3. Problem of the Day/Week Spotlight
     if all_problem_items:
         random_problem = random.choice(all_problem_items)
-        rp_name, rp_url, rp_lang, _, rp_original_filename, rp_platform_display, rp_category_display, _ = random_problem # Removed last_modified_date here
+        rp_name, rp_url, rp_lang, _, rp_original_filename, rp_platform_display, rp_category_display, _ = random_problem
         
         # Construct GitHub source link for the random problem
         rp_source_link_path = os.path.join(rp_platform_display, rp_category_display, rp_original_filename)
@@ -199,7 +209,7 @@ def update_unified_readme():
         readme_content.append(f"Feeling lucky? Here's a random problem from my collection:\n")
         readme_content.append(f"* **[{rp_name}]({rp_url})** "
                               f"([View Code]({rp_source_link})) "
-                              f"(Platform: {rp_platform_display}, Category: {rp_category_display}, Language: {rp_lang})\n\n") # Removed Last Updated display
+                              f"(Platform: {rp_platform_display}, Category: {rp_category_display}, Language: {rp_lang})\n\n")
 
     # 4. Search/Filter Instructions
     readme_content.append("## 🔍 How to Explore\n")
@@ -221,13 +231,13 @@ def update_unified_readme():
             for category_name in sorted(all_problems_by_platform[platform_folder_name].keys()):
                 problems = all_problems_by_platform[platform_folder_name][category_name]
                 readme_content.append(f"#### {category_display_name}: {category_name} ({len(problems)} Problems)\n\n")
-                for problem_name, problem_url, language, _, original_filename, platform_display, category_display, _ in problems: # Removed last_modified_date here
+                for problem_name, problem_url, language, _, original_filename, platform_display, category_display, _ in problems:
                     source_link_path = os.path.join(platform_folder_name, category_name, original_filename)
                     source_link = f"https://github.com/{GITHUB_USERNAME}/{GITHUB_REPO_NAME}/blob/main/{source_link_path}"
 
                     readme_content.append(f"* [{problem_name}]({problem_url}) "
                                           f"([View Code]({source_link})) "
-                                          f"({language})\n") # Removed Last Updated display
+                                          f"({language})\n")
                 readme_content.append("\n")
 
     # 6. Problems by Concept/Tag
@@ -238,9 +248,9 @@ def update_unified_readme():
         for tag in sorted(problems_by_tag.keys()):
             problems = problems_by_tag[tag]
             readme_content.append(f"### {tag} ({len(problems)} problems)\n\n")
-            for problem_name, problem_url, language, platform_display, category_display, _ in problems: # Removed last_modified_date here
+            for problem_name, problem_url, language, platform_display, category_display, _ in problems:
                 readme_content.append(f"* [{problem_name}]({problem_url}) "
-                                      f"(Platform: {platform_display}, Category: {category_display}, Lang: {language})\n") # Removed Last Updated display
+                                      f"(Platform: {platform_display}, Category: {category_display}, Lang: {language})\n")
             readme_content.append("\n")
 
     # 7. A "Learning Path" Section
