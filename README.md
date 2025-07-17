@@ -2,24 +2,25 @@
 Welcome to my comprehensive collection of solutions from various online judges! This repository showcases problems solved on platforms like Codeforces, LeetCode, Beecrowd, HackerRank, and HackerEarth, organized by platform, rating/difficulty, and algorithmic concept.
 
 ## 📊 Journey Statistics
-![Total Problems Solved](https://img.shields.io/badge/Total_Problems-16-blue)
+![Total Problems Solved](https://img.shields.io/badge/Total_Problems-18-blue)
 
 ### Problem Distribution:
-- **Beginner:** 0 problems
+- **Beecrowd:** 2 problems
+  - *Beginner:* 2 problems
 - **Codeforces:** 16 problems
   - *1000:* 1 problems
   - *800:* 14 problems
   - *900:* 1 problems
 
 ### Language Usage
-- **C++:** 100.0% (16 problems)
+- **C++:** 100.0% (18 problems)
 
 ### Solving Trend (Problems Solved by Month)
-- **2025-07:** 16 problems
+- **2025-07:** 18 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Football](https://codeforces.com/problemset/problem/96/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/900/A_Football.cpp)) (Platform: Codeforces, Category: 900, Language: C++) - Last Updated: 2025-07-17
+* **[B. Shrink](https://codeforces.com/contest/2117/problem/B)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/B_Shrink.cpp)) (Platform: Codeforces, Category: 800, Language: C++) - Last Updated: 2025-07-17
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -28,7 +29,12 @@ You can easily navigate through the problems:
 - **GitHub Search:** Use GitHub's search bar (at the top of the repository page) to quickly find specific problem names or keywords within my solutions.
 
 ## 🌐 Problems by Platform & Category
-### Beginner
+### Beecrowd
+#### Difficulty: Beginner (2 Problems)
+
+* [Extremely Basic](https://judge.beecrowd.com/en/problems/view/1001) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/Beginner/1001.cpp)) (C++) - Last Updated: 2025-07-17
+* [Hello World!](https://judge.beecrowd.com/en/problems/view/1000) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/Beginner/1000.cpp)) (C++) - Last Updated: 2025-07-17
+
 ### Codeforces
 #### Rating: 1000 (1 Problems)
 
@@ -128,4 +134,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-07-17 20:05:42 UTC*
+*README generated on 2025-07-17 20:11:03 UTC*
