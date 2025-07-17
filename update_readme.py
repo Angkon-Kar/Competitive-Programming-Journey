@@ -264,6 +264,11 @@ def update_unified_readme():
     readme_content.append("- **Consistent Practice:** Solve problems daily or weekly. Participate in contests to test your skills under pressure.\n")
     readme_content.append("- **Learn from Others:** Don't hesitate to look at solutions (after trying extensively!) to understand different approaches and optimizations.\n\n")
 
+    # --- Add My Other Resources Here ---
+    readme_content.append("### My Other Resources:\n")
+    readme_content.append(f"- **C++ DSA Journey:** For detailed topic-wise discussions and implementations of Data Structures and Algorithms, check out my dedicated [Cpp-DSA-Journey repository](https://github.com/Angkon-Kar/Cpp-DSA-Journey).\n\n")
+
+
     # 8. Contribution Guidelines
     readme_content.append("## 🤝 Contributions & Feedback\n")
     readme_content.append("While this is primarily a personal repository, I welcome feedback and suggestions!\n")
