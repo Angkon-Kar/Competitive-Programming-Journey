@@ -1,6 +1,14 @@
 # My Competitive Programming Journey 🚀
 Welcome to my comprehensive collection of solutions from various online judges! This repository showcases problems solved on platforms like Codeforces, LeetCode, Beecrowd, HackerRank, and HackerEarth, organized by platform, rating/difficulty, and algorithmic concept.
 
+## Table of Contents
+- [📊 Journey Statistics](#-journey-statistics)
+- [✨ Spotlight Problem](#-spotlight-problem)
+- [🌐 Problems by Platform & Category](#-problems-by-platform--category)
+- [🧩 Problems by Concept/Tag](#-problems-by-concepttag)
+- [🗺️ My Learning Path & Advice](#️-my-learning-path--advice)
+- [🤝 Contributions & Feedback](#-contributions--feedback)
+
 ## 📊 Journey Statistics
 ![Total Problems Solved](https://img.shields.io/badge/Total_Problems-18-blue)
 
@@ -20,7 +28,7 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[Extremely Basic](https://judge.beecrowd.com/en/problems/view/1001)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/Beginner/1001.cpp)) (Platform: Beecrowd, Category: Beginner, Language: C++)
+* **[A. Petya and Strings](https://codeforces.com/problemset/problem/112/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Petya_and_Strings.cpp)) (Platform: Codeforces, Category: 800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -134,4 +142,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-07-17 20:14:17 UTC*
+*README generated on 2025-07-17 20:22:05 UTC*
