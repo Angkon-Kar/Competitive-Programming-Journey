@@ -2,7 +2,7 @@ import os
 import re
 import datetime
 import random
-from collections import defaultdict # To help with counting languages
+from collections import defaultdict
 
 # --- User Configuration ---
 GITHUB_USERNAME = "Angkon-Kar"
@@ -13,7 +13,7 @@ def update_unified_readme():
     Scans the entire repository for problem solutions, organizing them
     by platform (Codeforces, LeetCode, etc.), rating/difficulty, and tags.
     Generates a comprehensive, auto-updating README.md.
-    Includes: Problem Name, URL, Language, GitHub Source Link, Last Updated,
+    Includes: Problem Name, URL, Language, GitHub Source Link,
     Platform, Category (Rating/Difficulty), Tags, Language Usage Stats, Solving Trend.
     """
 
@@ -93,20 +93,20 @@ def update_unified_readme():
                                 
                                 platform_match = re.search(r'(?:Platform:|# Platform:)\s*(.+)', content, re.IGNORECASE)
                                 if platform_match: platform_in_file = platform_match.group(1).strip()
-                                
+                                # No else for category_in_file from file content, relies on folder name if tag not found
                                 category_tag_name = "Difficulty" if platform_folder != 'Codeforces' else "Rating"
                                 category_match = re.search(r'(?:' + category_tag_name + r':|# ' + category_tag_name + r':)\s*(.+)', content, re.IGNORECASE)
-                                if category_match: category_in_file = category_match.group(1).strip()
+                                if category_match: category_in_file = category_match.group(1).strip() # Overrides folder name if tag exists
                                 
                                 tag_match = re.search(r'(?:Tag:|# Tag:)\s*(.+)', content, re.IGNORECASE)
                                 if tag_match:
                                     raw_tags = tag_match.group(1).split(',')
                                     tags_found = sorted([tag.strip() for tag in raw_tags if tag.strip()])
 
-                            # Get last modified date from file system
+                            # Get last modified date from file system (still needed for Solving Trend)
                             mtime = os.path.getmtime(file_path)
                             dt_object = datetime.datetime.fromtimestamp(mtime, datetime.timezone.utc)
-                            last_modified_date = dt_object.strftime('%Y-%m-%d')
+                            last_modified_date = dt_object.strftime('%Y-%m-%d') # Keep for internal use if needed
                             last_modified_month_year = dt_object.strftime('%Y-%m')
 
                         except Exception as e:
@@ -120,10 +120,10 @@ def update_unified_readme():
                         all_problem_items.append(problem_data)
                         total_problems_count += 1
 
-                        # Update language counts (Feature: Language Usage)
+                        # Update language counts
                         language_counts[language] += 1
 
-                        # Update solving trend (Feature: Solving Trend)
+                        # Update solving trend
                         if last_modified_month_year:
                             solving_trend_by_month[last_modified_month_year] += 1
 
@@ -178,6 +178,7 @@ def update_unified_readme():
     # Feature: Solving Trend
     if solving_trend_by_month:
         readme_content.append("### Solving Trend (Problems Solved by Month)\n")
+        # Ensure months are sorted chronologically
         sorted_months = sorted(solving_trend_by_month.keys())
         for month_year in sorted_months:
             count = solving_trend_by_month[month_year]
@@ -188,7 +189,7 @@ def update_unified_readme():
     # 3. Problem of the Day/Week Spotlight
     if all_problem_items:
         random_problem = random.choice(all_problem_items)
-        rp_name, rp_url, rp_lang, _, rp_original_filename, rp_platform_display, rp_category_display, rp_last_modified_date = random_problem
+        rp_name, rp_url, rp_lang, _, rp_original_filename, rp_platform_display, rp_category_display, _ = random_problem # Removed last_modified_date here
         
         # Construct GitHub source link for the random problem
         rp_source_link_path = os.path.join(rp_platform_display, rp_category_display, rp_original_filename)
@@ -198,11 +199,7 @@ def update_unified_readme():
         readme_content.append(f"Feeling lucky? Here's a random problem from my collection:\n")
         readme_content.append(f"* **[{rp_name}]({rp_url})** "
                               f"([View Code]({rp_source_link})) "
-                              f"(Platform: {rp_platform_display}, Category: {rp_category_display}, Language: {rp_lang})")
-        if rp_last_modified_date:
-            readme_content.append(f" - Last Updated: {rp_last_modified_date}")
-        readme_content.append("\n\n")
-
+                              f"(Platform: {rp_platform_display}, Category: {rp_category_display}, Language: {rp_lang})\n\n") # Removed Last Updated display
 
     # 4. Search/Filter Instructions
     readme_content.append("## 🔍 How to Explore\n")
@@ -224,16 +221,13 @@ def update_unified_readme():
             for category_name in sorted(all_problems_by_platform[platform_folder_name].keys()):
                 problems = all_problems_by_platform[platform_folder_name][category_name]
                 readme_content.append(f"#### {category_display_name}: {category_name} ({len(problems)} Problems)\n\n")
-                for problem_name, problem_url, language, _, original_filename, platform_display, category_display, last_modified_date in problems:
+                for problem_name, problem_url, language, _, original_filename, platform_display, category_display, _ in problems: # Removed last_modified_date here
                     source_link_path = os.path.join(platform_folder_name, category_name, original_filename)
                     source_link = f"https://github.com/{GITHUB_USERNAME}/{GITHUB_REPO_NAME}/blob/main/{source_link_path}"
 
                     readme_content.append(f"* [{problem_name}]({problem_url}) "
                                           f"([View Code]({source_link})) "
-                                          f"({language})")
-                    if last_modified_date:
-                        readme_content.append(f" - Last Updated: {last_modified_date}")
-                    readme_content.append("\n")
+                                          f"({language})\n") # Removed Last Updated display
                 readme_content.append("\n")
 
     # 6. Problems by Concept/Tag
@@ -244,12 +238,9 @@ def update_unified_readme():
         for tag in sorted(problems_by_tag.keys()):
             problems = problems_by_tag[tag]
             readme_content.append(f"### {tag} ({len(problems)} problems)\n\n")
-            for problem_name, problem_url, language, platform_display, category_display, last_modified_date in problems:
+            for problem_name, problem_url, language, platform_display, category_display, _ in problems: # Removed last_modified_date here
                 readme_content.append(f"* [{problem_name}]({problem_url}) "
-                                      f"(Platform: {platform_display}, Category: {category_display}, Lang: {language})")
-                if last_modified_date:
-                    readme_content.append(f" - Last Updated: {last_modified_date}")
-                readme_content.append("\n")
+                                      f"(Platform: {platform_display}, Category: {category_display}, Lang: {language})\n") # Removed Last Updated display
             readme_content.append("\n")
 
     # 7. A "Learning Path" Section
