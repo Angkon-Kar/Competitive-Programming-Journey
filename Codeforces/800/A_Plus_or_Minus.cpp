@@ -1,27 +1,23 @@
 // Problem: Added A. Plus or Minus
-// URL: https://codeforces.com/problemset/problem/1676/A
+// URL: https://codeforces.com/problemset/problem/1807/A
 // Tag: Implementation
 
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
-
-int main()
-{
-
+ 
+int main(){
     int n;
     cin >> n;
-    while (n--)
+ 
+    for (int i = 1; i <= n; i++)
     {
-        string s;
-        cin >> s;
-
-        if (s[0] + s[1] + s[2] == s[3] + s[4] + s[5])
-        {
-            cout << "YES" << endl;
+        int a, b, c;
+        cin >> a >> b >> c;
+        if(a + b == c){
+            cout << "+" << endl;
         }
-        else
-        {
-            cout << "NO" << endl;
+        else{
+            cout << "-" << endl;
         }
     }
 }
