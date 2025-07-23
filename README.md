@@ -10,25 +10,25 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 - [🤝 Contributions & Feedback](#-contributions--feedback)
 
 ## 📊 Journey Statistics
-![Total Problems Solved](https://img.shields.io/badge/Total_Problems-19-blue)
+![Total Problems Solved](https://img.shields.io/badge/Total_Problems-20-blue)
 
 ### Problem Distribution:
 - **Beecrowd:** 2 problems
   - *Beginner:* 2 problems
-- **Codeforces:** 17 problems
+- **Codeforces:** 18 problems
   - *1000:* 1 problems
-  - *800:* 15 problems
+  - *800:* 16 problems
   - *900:* 1 problems
 
 ### Language Usage
-- **C++:** 100.0% (19 problems)
+- **C++:** 100.0% (20 problems)
 
 ### Solving Trend (Problems Solved by Month)
-- **2025-07:** 19 problems
+- **2025-07:** 20 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Watermelon](https://codeforces.com/contest/4/problem/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Watermelon.cpp)) (Platform: Codeforces, Category: 800, Language: C++)
+* **[B. Shrink](https://codeforces.com/contest/2117/problem/B)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/B_Shrink.cpp)) (Platform: Codeforces, Category: 800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -48,7 +48,7 @@ You can easily navigate through the problems:
 
 * [C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/1000/C_Prefix_Min_and_Suffix_Max.cpp)) (C++)
 
-#### Rating: 800 (15 Problems)
+#### Rating: 800 (16 Problems)
 
 * [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Beautiful_Matrix.cpp)) (C++)
 * [A. Bit++](https://codeforces.com/problemset/problem/282/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Bit++.cpp)) (C++)
@@ -62,7 +62,8 @@ You can easily navigate through the problems:
 * [A. Watermelon](https://codeforces.com/contest/4/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Watermelon.cpp)) (C++)
 * [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Way_Too_Long_Words.cpp)) (C++)
 * [A. Word](https://codeforces.com/problemset/problem/59/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Word.cpp)) (C++)
-* [A_Plus_or_Minus](#) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Plus_or_Minus.cpp)) (C++)
+* [A_Lucky](#) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Lucky.cpp)) (C++)
+* [Added A. Plus or Minus](https://codeforces.com/problemset/problem/1676/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Plus_or_Minus.cpp)) (C++)
 * [B. Shrink](https://codeforces.com/contest/2117/problem/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/B_Shrink.cpp)) (C++)
 * [B. Tournament](https://codeforces.com/contest/2123/problem/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/B_Tournament.cpp)) (C++)
 
@@ -92,7 +93,7 @@ You can easily navigate through the problems:
 * [A. Team](https://codeforces.com/problemset/problem/231/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [B. Tournament](https://codeforces.com/contest/2123/problem/B) (Platform: Codeforces, Category: 800, Lang: C++)
 
-### Implementation (8 problems)
+### Implementation (9 problems)
 
 * [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [A. Bit++](https://codeforces.com/problemset/problem/282/A) (Platform: Codeforces, Category: 800, Lang: C++)
@@ -102,6 +103,7 @@ You can easily navigate through the problems:
 * [A. Only One Digit](https://codeforces.com/contest/2126/problem/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [A. Word](https://codeforces.com/problemset/problem/59/A) (Platform: Codeforces, Category: 800, Lang: C++)
+* [Added A. Plus or Minus](https://codeforces.com/problemset/problem/1676/A) (Platform: Codeforces, Category: 800, Lang: C++)
 
 ### Math (4 problems)
 
@@ -146,4 +148,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-07-23 15:35:30 UTC*
+*README generated on 2025-07-23 15:46:23 UTC*
