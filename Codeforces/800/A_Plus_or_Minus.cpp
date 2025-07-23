@@ -1,4 +1,4 @@
-// Problem: Added A. Plus or Minus
+// Problem: A. Plus or Minus
 // URL: https://codeforces.com/problemset/problem/1807/A
 // Tag: Implementation
 
