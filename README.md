@@ -28,7 +28,7 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[Area of a Circle](https://judge.beecrowd.com/en/problems/view/1002)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/Beginner/1002.cpp)) (Platform: Beecrowd, Category: Beginner, Language: C++)
+* **[Simple Product](https://judge.beecrowd.com/en/problems/view/1004)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/Beginner/1004.cpp)) (Platform: Beecrowd, Category: Beginner, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -160,4 +160,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-08-17 01:13:34 UTC*
+*README generated on 2025-08-18 01:12:58 UTC*
