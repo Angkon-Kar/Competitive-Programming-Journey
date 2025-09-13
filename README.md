@@ -10,25 +10,25 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 - [🤝 Contributions & Feedback](#-contributions--feedback)
 
 ## 📊 Journey Statistics
-![Total Problems Solved](https://img.shields.io/badge/Total_Problems-33-blue)
+![Total Problems Solved](https://img.shields.io/badge/Total_Problems-34-blue)
 
 ### Problem Distribution:
-- **Beecrowd:** 13 problems
-  - *01 Beginner:* 13 problems
+- **Beecrowd:** 14 problems
+  - *01 Beginner:* 14 problems
 - **Codeforces:** 20 problems
   - *1000:* 1 problems
   - *800:* 18 problems
   - *900:* 1 problems
 
 ### Language Usage
-- **C++:** 100.0% (33 problems)
+- **C++:** 100.0% (34 problems)
 
 ### Solving Trend (Problems Solved by Month)
-- **2025-09:** 33 problems
+- **2025-09:** 34 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[Simple Calculate](https://judge.beecrowd.com/en/problems/view/1010)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1010.cpp)) (Platform: Beecrowd, Category: 01 Beginner, Language: C++)
+* **[A. Plus or Minus](https://codeforces.com/problemset/problem/1807/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Plus_or_Minus.cpp)) (Platform: Codeforces, Category: 800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -38,7 +38,7 @@ You can easily navigate through the problems:
 
 ## 🌐 Problems by Platform & Category
 ### Beecrowd
-#### Difficulty: 01 Beginner (13 Problems)
+#### Difficulty: 01 Beginner (14 Problems)
 
 * [Area](https://judge.beecrowd.com/en/problems/view/1012) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1012.cpp)) (C++)
 * [Area of a Circle](https://judge.beecrowd.com/en/problems/view/1002) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1002.cpp)) (C++)
@@ -53,6 +53,7 @@ You can easily navigate through the problems:
 * [Simple Product](https://judge.beecrowd.com/en/problems/view/1004) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1004.cpp)) (C++)
 * [Simple Sum](https://judge.beecrowd.com/en/problems/view/1003) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1003.cpp)) (C++)
 * [Sphere](https://judge.beecrowd.com/en/problems/view/1011) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1011.cpp)) (C++)
+* [The Greatest](https://judge.beecrowd.com/en/problems/view/1013) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1013.cpp)) (C++)
 
 ### Codeforces
 #### Rating: 1000 (1 Problems)
@@ -166,4 +167,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-09-13 18:18:43 UTC*
+*README generated on 2025-09-13 19:08:14 UTC*
