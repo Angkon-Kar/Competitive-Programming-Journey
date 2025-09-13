@@ -1,22 +1,23 @@
-// Problem: Salary with Bonus
-// URL: https://judge.beecrowd.com/en/problems/view/1009
+// Problem: Salary
+// URL: https://judge.beecrowd.com/en/problems/view/1008
 
 #include <iostream>
 #include <iomanip>
-#include <string>
-
 using namespace std;
 
 int main()
 {
-    string name;
-    cin >> name;
-    
-    double a, b;
+
+    int a, b;
     cin >> a >> b;
 
-    double c = a + (b * 0.15);
-    cout << fixed << setprecision(2) << "TOTAL = R$ " << c << endl;
+    double c;
+    cin >> c;
+
+    double d = (b * c) * 1.00;
+
+    cout << "NUMBER = " << a << endl;
+    cout << fixed << setprecision(2) << "SALARY = U$ " << d << endl;
 
     return 0;
 }
