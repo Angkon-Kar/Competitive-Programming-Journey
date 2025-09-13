@@ -10,25 +10,25 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 - [🤝 Contributions & Feedback](#-contributions--feedback)
 
 ## 📊 Journey Statistics
-![Total Problems Solved](https://img.shields.io/badge/Total_Problems-29-blue)
+![Total Problems Solved](https://img.shields.io/badge/Total_Problems-30-blue)
 
 ### Problem Distribution:
-- **Beecrowd:** 9 problems
-  - *01 Beginner:* 9 problems
+- **Beecrowd:** 10 problems
+  - *01 Beginner:* 10 problems
 - **Codeforces:** 20 problems
   - *1000:* 1 problems
   - *800:* 18 problems
   - *900:* 1 problems
 
 ### Language Usage
-- **C++:** 100.0% (29 problems)
+- **C++:** 100.0% (30 problems)
 
 ### Solving Trend (Problems Solved by Month)
-- **2025-09:** 29 problems
+- **2025-09:** 30 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Team](https://codeforces.com/problemset/problem/231/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Team.cpp)) (Platform: Codeforces, Category: 800, Language: C++)
+* **[A. Petya and Strings](https://codeforces.com/problemset/problem/112/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Petya_and_Strings.cpp)) (Platform: Codeforces, Category: 800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -38,7 +38,7 @@ You can easily navigate through the problems:
 
 ## 🌐 Problems by Platform & Category
 ### Beecrowd
-#### Difficulty: 01 Beginner (9 Problems)
+#### Difficulty: 01 Beginner (10 Problems)
 
 * [Area of a Circle](https://judge.beecrowd.com/en/problems/view/1002) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1002.cpp)) (C++)
 * [Average 1](https://judge.beecrowd.com/en/problems/view/1005) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1005.cpp)) (C++)
@@ -47,6 +47,7 @@ You can easily navigate through the problems:
 * [Extremely Basic](https://judge.beecrowd.com/en/problems/view/1001) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1001.cpp)) (C++)
 * [Hello World!](https://judge.beecrowd.com/en/problems/view/1000) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1000.cpp)) (C++)
 * [Salary](https://judge.beecrowd.com/en/problems/view/1008) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1008.cpp)) (C++)
+* [Salary with Bonus](https://judge.beecrowd.com/en/problems/view/1009) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1009.cpp)) (C++)
 * [Simple Product](https://judge.beecrowd.com/en/problems/view/1004) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1004.cpp)) (C++)
 * [Simple Sum](https://judge.beecrowd.com/en/problems/view/1003) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1003.cpp)) (C++)
 
@@ -162,4 +163,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-09-13 17:08:17 UTC*
+*README generated on 2025-09-13 17:08:55 UTC*
