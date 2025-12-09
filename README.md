@@ -28,7 +28,7 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Translation](https://codeforces.com/contest/41/problem/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Translation.cpp)) (Platform: Codeforces, Category: 800, Language: C++)
+* **[C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/1000/C_Prefix_Min_and_Suffix_Max.cpp)) (Platform: Codeforces, Category: 1000, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -167,4 +167,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-12-08 01:07:35 UTC*
+*README generated on 2025-12-09 01:07:11 UTC*
