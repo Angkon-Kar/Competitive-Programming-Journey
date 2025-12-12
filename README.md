@@ -28,7 +28,7 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/1000/C_Prefix_Min_and_Suffix_Max.cpp)) (Platform: Codeforces, Category: 1000, Language: C++)
+* **[Average 2](https://judge.beecrowd.com/en/problems/view/1006)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1006.cpp)) (Platform: Beecrowd, Category: 01_Beginner, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -167,4 +167,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-12-11 01:09:48 UTC*
+*README generated on 2025-12-12 01:09:38 UTC*
