@@ -14,7 +14,7 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 
 ### Problem Distribution:
 - **Beecrowd:** 14 problems
-  - *01 Beginner:* 14 problems
+  - *01_Beginner:* 14 problems
 - **Codeforces:** 20 problems
   - *1000:* 1 problems
   - *800:* 18 problems
@@ -24,11 +24,11 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 - **C++:** 100.0% (34 problems)
 
 ### Solving Trend (Problems Solved by Month)
-- **2025-09:** 34 problems
+- **2026-01:** 34 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Watermelon](https://codeforces.com/contest/4/problem/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Watermelon.cpp)) (Platform: Codeforces, Category: 800, Language: C++)
+* **[B. Shrink](https://codeforces.com/contest/2117/problem/B)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/B_Shrink.cpp)) (Platform: Codeforces, Category: 800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -38,22 +38,22 @@ You can easily navigate through the problems:
 
 ## 🌐 Problems by Platform & Category
 ### Beecrowd
-#### Difficulty: 01 Beginner (14 Problems)
+#### Difficulty: 01_Beginner (14 Problems)
 
-* [Area](https://judge.beecrowd.com/en/problems/view/1012) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1012.cpp)) (C++)
-* [Area of a Circle](https://judge.beecrowd.com/en/problems/view/1002) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1002.cpp)) (C++)
-* [Average 1](https://judge.beecrowd.com/en/problems/view/1005) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1005.cpp)) (C++)
-* [Average 2](https://judge.beecrowd.com/en/problems/view/1006) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1006.cpp)) (C++)
-* [Difference](https://judge.beecrowd.com/en/problems/view/1007) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1007.cpp)) (C++)
-* [Extremely Basic](https://judge.beecrowd.com/en/problems/view/1001) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1001.cpp)) (C++)
-* [Hello World!](https://judge.beecrowd.com/en/problems/view/1000) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1000.cpp)) (C++)
-* [Salary](https://judge.beecrowd.com/en/problems/view/1008) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1008.cpp)) (C++)
-* [Salary with Bonus](https://judge.beecrowd.com/en/problems/view/1009) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1009.cpp)) (C++)
-* [Simple Calculate](https://judge.beecrowd.com/en/problems/view/1010) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1010.cpp)) (C++)
-* [Simple Product](https://judge.beecrowd.com/en/problems/view/1004) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1004.cpp)) (C++)
-* [Simple Sum](https://judge.beecrowd.com/en/problems/view/1003) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1003.cpp)) (C++)
-* [Sphere](https://judge.beecrowd.com/en/problems/view/1011) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1011.cpp)) (C++)
-* [The Greatest](https://judge.beecrowd.com/en/problems/view/1013) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01 Beginner/1013.cpp)) (C++)
+* [Area](https://judge.beecrowd.com/en/problems/view/1012) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1012.cpp)) (C++)
+* [Area of a Circle](https://judge.beecrowd.com/en/problems/view/1002) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1002.cpp)) (C++)
+* [Average 1](https://judge.beecrowd.com/en/problems/view/1005) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1005.cpp)) (C++)
+* [Average 2](https://judge.beecrowd.com/en/problems/view/1006) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1006.cpp)) (C++)
+* [Difference](https://judge.beecrowd.com/en/problems/view/1007) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1007.cpp)) (C++)
+* [Extremely Basic](https://judge.beecrowd.com/en/problems/view/1001) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1001.cpp)) (C++)
+* [Hello World!](https://judge.beecrowd.com/en/problems/view/1000) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1000.cpp)) (C++)
+* [Salary](https://judge.beecrowd.com/en/problems/view/1008) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1008.cpp)) (C++)
+* [Salary with Bonus](https://judge.beecrowd.com/en/problems/view/1009) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1009.cpp)) (C++)
+* [Simple Calculate](https://judge.beecrowd.com/en/problems/view/1010) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1010.cpp)) (C++)
+* [Simple Product](https://judge.beecrowd.com/en/problems/view/1004) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1004.cpp)) (C++)
+* [Simple Sum](https://judge.beecrowd.com/en/problems/view/1003) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1003.cpp)) (C++)
+* [Sphere](https://judge.beecrowd.com/en/problems/view/1011) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1011.cpp)) (C++)
+* [The Greatest](https://judge.beecrowd.com/en/problems/view/1013) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1013.cpp)) (C++)
 
 ### Codeforces
 #### Rating: 1000 (1 Problems)
@@ -167,4 +167,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2025-09-19 01:01:24 UTC*
+*README generated on 2026-01-30 01:22:46 UTC*
