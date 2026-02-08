@@ -10,25 +10,25 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 - [🤝 Contributions & Feedback](#-contributions--feedback)
 
 ## 📊 Journey Statistics
-![Total Problems Solved](https://img.shields.io/badge/Total_Problems-34-blue)
+![Total Problems Solved](https://img.shields.io/badge/Total_Problems-36-blue)
 
 ### Problem Distribution:
-- **Beecrowd:** 14 problems
-  - *01_Beginner:* 14 problems
-- **Codeforces:** 20 problems
+- **Beecrowd:** 15 problems
+  - *01_Beginner:* 15 problems
+- **Codeforces:** 21 problems
   - *1000:* 1 problems
   - *800:* 18 problems
-  - *900:* 1 problems
+  - *900:* 2 problems
 
 ### Language Usage
-- **C++:** 100.0% (34 problems)
+- **C++:** 100.0% (36 problems)
 
 ### Solving Trend (Problems Solved by Month)
-- **2026-01:** 34 problems
+- **2026-02:** 36 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[B. Shrink](https://codeforces.com/contest/2117/problem/B)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/B_Shrink.cpp)) (Platform: Codeforces, Category: 800, Language: C++)
+* **[A. Domino piling](https://codeforces.com/problemset/problem/50/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Domino_Piling.cpp)) (Platform: Codeforces, Category: 800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -38,8 +38,9 @@ You can easily navigate through the problems:
 
 ## 🌐 Problems by Platform & Category
 ### Beecrowd
-#### Difficulty: 01_Beginner (14 Problems)
+#### Difficulty: 01_Beginner (15 Problems)
 
+* [1014](#) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1014.cpp)) (C++)
 * [Area](https://judge.beecrowd.com/en/problems/view/1012) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1012.cpp)) (C++)
 * [Area of a Circle](https://judge.beecrowd.com/en/problems/view/1002) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1002.cpp)) (C++)
 * [Average 1](https://judge.beecrowd.com/en/problems/view/1005) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1005.cpp)) (C++)
@@ -81,9 +82,10 @@ You can easily navigate through the problems:
 * [B. Shrink](https://codeforces.com/contest/2117/problem/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/B_Shrink.cpp)) (C++)
 * [B. Tournament](https://codeforces.com/contest/2123/problem/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/B_Tournament.cpp)) (C++)
 
-#### Rating: 900 (1 Problems)
+#### Rating: 900 (2 Problems)
 
 * [A. Football](https://codeforces.com/problemset/problem/96/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/900/A_Football.cpp)) (C++)
+* [A. Twins](https://codeforces.com/problemset/problem/160/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/900/A_Twins.cpp)) (C++)
 
 ## 🧩 Problems by Concept/Tag
 ### Brute Force (3 problems)
@@ -100,12 +102,13 @@ You can easily navigate through the problems:
 
 * [C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) (Platform: Codeforces, Category: 1000, Lang: C++)
 
-### Greedy (5 problems)
+### Greedy (6 problems)
 
 * [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [A. False Alarm](https://codeforces.com/contest/2117/problem/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [A. Team](https://codeforces.com/problemset/problem/231/A) (Platform: Codeforces, Category: 800, Lang: C++)
+* [A. Twins](https://codeforces.com/problemset/problem/160/A) (Platform: Codeforces, Category: 900, Lang: C++)
 * [B. Tournament](https://codeforces.com/contest/2123/problem/B) (Platform: Codeforces, Category: 800, Lang: C++)
 
 ### Implementation (12 problems)
@@ -129,6 +132,10 @@ You can easily navigate through the problems:
 * [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [A. Only One Digit](https://codeforces.com/contest/2126/problem/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [A. Watermelon](https://codeforces.com/contest/4/problem/A) (Platform: Codeforces, Category: 800, Lang: C++)
+
+### Sorting (1 problems)
+
+* [A. Twins](https://codeforces.com/problemset/problem/160/A) (Platform: Codeforces, Category: 900, Lang: C++)
 
 ### Sortings (1 problems)
 
@@ -167,4 +174,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2026-01-30 01:22:46 UTC*
+*README generated on 2026-02-08 01:59:01 UTC*
