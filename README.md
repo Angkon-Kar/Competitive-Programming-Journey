@@ -10,25 +10,25 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 - [🤝 Contributions & Feedback](#-contributions--feedback)
 
 ## 📊 Journey Statistics
-![Total Problems Solved](https://img.shields.io/badge/Total_Problems-37-blue)
+![Total Problems Solved](https://img.shields.io/badge/Total_Problems-38-blue)
 
 ### Problem Distribution:
 - **Beecrowd:** 15 problems
   - *01_Beginner:* 15 problems
-- **Codeforces:** 22 problems
+- **Codeforces:** 23 problems
   - *1000:* 1 problems
-  - *800:* 19 problems
+  - *800:* 20 problems
   - *900:* 2 problems
 
 ### Language Usage
-- **C++:** 100.0% (37 problems)
+- **C++:** 100.0% (38 problems)
 
 ### Solving Trend (Problems Solved by Month)
-- **2026-02:** 37 problems
+- **2026-02:** 38 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[Salary](https://judge.beecrowd.com/en/problems/view/1008)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1008.cpp)) (Platform: Beecrowd, Category: 01_Beginner, Language: C++)
+* **[A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Beautiful_Matrix.cpp)) (Platform: Codeforces, Category: 800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -61,9 +61,10 @@ You can easily navigate through the problems:
 
 * [C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/1000/C_Prefix_Min_and_Suffix_Max.cpp)) (C++)
 
-#### Rating: 800 (19 Problems)
+#### Rating: 800 (20 Problems)
 
 * [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Beautiful_Matrix.cpp)) (C++)
+* [A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Beautiful_Year.cpp)) (C++)
 * [A. Bit++](https://codeforces.com/problemset/problem/282/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Bit++.cpp)) (C++)
 * [A. Blackboard Game](https://codeforces.com/contest/2123/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Blackboard_Game.cpp)) (C++)
 * [A. Domino piling](https://codeforces.com/problemset/problem/50/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Domino_Piling.cpp)) (C++)
@@ -112,9 +113,10 @@ You can easily navigate through the problems:
 * [A. Twins](https://codeforces.com/problemset/problem/160/A) (Platform: Codeforces, Category: 900, Lang: C++)
 * [B. Tournament](https://codeforces.com/contest/2123/problem/B) (Platform: Codeforces, Category: 800, Lang: C++)
 
-### Implementation (13 problems)
+### Implementation (14 problems)
 
 * [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) (Platform: Codeforces, Category: 800, Lang: C++)
+* [A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [A. Bit++](https://codeforces.com/problemset/problem/282/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [A. False Alarm](https://codeforces.com/contest/2117/problem/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [A. Football](https://codeforces.com/problemset/problem/96/A) (Platform: Codeforces, Category: 900, Lang: C++)
@@ -176,4 +178,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2026-02-09 18:01:59 UTC*
+*README generated on 2026-02-09 18:21:14 UTC*
