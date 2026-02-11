@@ -10,25 +10,25 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 - [🤝 Contributions & Feedback](#-contributions--feedback)
 
 ## 📊 Journey Statistics
-![Total Problems Solved](https://img.shields.io/badge/Total_Problems-39-blue)
+![Total Problems Solved](https://img.shields.io/badge/Total_Problems-40-blue)
 
 ### Problem Distribution:
 - **Beecrowd:** 15 problems
   - *01_Beginner:* 15 problems
-- **Codeforces:** 24 problems
+- **Codeforces:** 25 problems
   - *1000:* 1 problems
-  - *800:* 21 problems
+  - *800:* 22 problems
   - *900:* 2 problems
 
 ### Language Usage
-- **C++:** 100.0% (39 problems)
+- **C++:** 100.0% (40 problems)
 
 ### Solving Trend (Problems Solved by Month)
-- **2026-02:** 39 problems
+- **2026-02:** 40 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[Average 2](https://judge.beecrowd.com/en/problems/view/1006)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1006.cpp)) (Platform: Beecrowd, Category: 01_Beginner, Language: C++)
+* **[A. Vanya and Fence](https://codeforces.com/problemset/problem/677/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Vanya_and_Fence.cpp)) (Platform: Codeforces, Category: 800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -61,8 +61,9 @@ You can easily navigate through the problems:
 
 * [C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/1000/C_Prefix_Min_and_Suffix_Max.cpp)) (C++)
 
-#### Rating: 800 (21 Problems)
+#### Rating: 800 (22 Problems)
 
+* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_A+B_Again2.cpp)) (C++)
 * [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_A+B_Again1.cpp)) (C++)
 * [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Beautiful_Matrix.cpp)) (C++)
 * [A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Beautiful_Year.cpp)) (C++)
@@ -114,8 +115,9 @@ You can easily navigate through the problems:
 * [A. Twins](https://codeforces.com/problemset/problem/160/A) (Platform: Codeforces, Category: 900, Lang: C++)
 * [B. Tournament](https://codeforces.com/contest/2123/problem/B) (Platform: Codeforces, Category: 800, Lang: C++)
 
-### Implementation (15 problems)
+### Implementation (16 problems)
 
+* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) (Platform: Codeforces, Category: 800, Lang: C++)
@@ -132,8 +134,9 @@ You can easily navigate through the problems:
 * [A. Vanya and Fence](https://codeforces.com/problemset/problem/677/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [A. Word](https://codeforces.com/problemset/problem/59/A) (Platform: Codeforces, Category: 800, Lang: C++)
 
-### Math (5 problems)
+### Math (6 problems)
 
+* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [A. Blackboard Game](https://codeforces.com/contest/2123/problem/A) (Platform: Codeforces, Category: 800, Lang: C++)
 * [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (Platform: Codeforces, Category: 800, Lang: C++)
@@ -181,4 +184,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2026-02-11 14:38:51 UTC*
+*README generated on 2026-02-11 14:49:09 UTC*
