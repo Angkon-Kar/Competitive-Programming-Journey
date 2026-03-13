@@ -1,1 +1,10 @@
-.exe
+# Ignore compiled binaries
+*.exe
+
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore other build artifacts
+*.obj
+*.o
+*.out
