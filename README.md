@@ -10,25 +10,25 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 - [🤝 Contributions & Feedback](#-contributions--feedback)
 
 ## 📊 Journey Statistics
-![Total Problems Solved](https://img.shields.io/badge/Total_Problems-43-blue)
+![Total Problems Solved](https://img.shields.io/badge/Total_Problems-44-blue)
 
 ### Problem Distribution:
 - **Beecrowd:** 15 problems
   - *01_Beginner:* 15 problems
-- **Codeforces:** 28 problems
-  - *1000:* 1 problems
-  - *800:* 25 problems
-  - *900:* 2 problems
+- **Codeforces:** 29 problems
+  - *0800:* 25 problems
+  - *0900:* 2 problems
+  - *1000:* 2 problems
 
 ### Language Usage
-- **C++:** 100.0% (43 problems)
+- **C++:** 100.0% (44 problems)
 
 ### Solving Trend (Problems Solved by Month)
-- **2026-03:** 43 problems
+- **2026-03:** 44 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Translation](https://codeforces.com/contest/41/problem/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Translation.cpp)) (Platform: Codeforces, Category: 800, Language: C++)
+* **[A. Translation](https://codeforces.com/contest/41/problem/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Translation.cpp)) (Platform: Codeforces, Category: 0800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -57,53 +57,54 @@ You can easily navigate through the problems:
 * [The Greatest](https://judge.beecrowd.com/en/problems/view/1013) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1013.cpp)) (C++)
 
 ### Codeforces
-#### Rating: 1000 (1 Problems)
+#### Rating: 0800 (25 Problems)
 
+* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again3.cpp)) (C++)
+* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again1.cpp)) (C++)
+* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again2.cpp)) (C++)
+* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again4.cpp)) (C++)
+* [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Beautiful_Matrix.cpp)) (C++)
+* [A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Beautiful_Year.cpp)) (C++)
+* [A. Bit++](https://codeforces.com/problemset/problem/282/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Bit++.cpp)) (C++)
+* [A. Blackboard Game](https://codeforces.com/contest/2123/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Blackboard_Game.cpp)) (C++)
+* [A. Domino piling](https://codeforces.com/problemset/problem/50/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Domino_Piling.cpp)) (C++)
+* [A. False Alarm](https://codeforces.com/contest/2117/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_False_Alarm.cpp)) (C++)
+* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Helpful_Maths.cpp)) (C++)
+* [A. Lucky?](https://codeforces.com/problemset/problem/1676/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Lucky.cpp)) (C++)
+* [A. Next Round](https://codeforces.com/problemset/problem/158/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Next_Round.cpp)) (C++)
+* [A. Only One Digit](https://codeforces.com/contest/2126/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Only_One_Digit.cpp)) (C++)
+* [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Petya_and_Strings.cpp)) (C++)
+* [A. Plus or Minus](https://codeforces.com/problemset/problem/1807/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Plus_or_Minus.cpp)) (C++)
+* [A. Team](https://codeforces.com/problemset/problem/231/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Team.cpp)) (C++)
+* [A. Translation](https://codeforces.com/contest/41/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Translation.cpp)) (C++)
+* [A. Vanya and Fence](https://codeforces.com/problemset/problem/677/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Vanya_and_Fence.cpp)) (C++)
+* [A. Watermelon](https://codeforces.com/contest/4/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Watermelon.cpp)) (C++)
+* [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Way_Too_Long_Words.cpp)) (C++)
+* [A. Word](https://codeforces.com/problemset/problem/59/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Word.cpp)) (C++)
+* [B. Drinks](https://codeforces.com/problemset/problem/200/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/B_Drinks.cpp)) (C++)
+* [B. Shrink](https://codeforces.com/contest/2117/problem/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/B_Shrink.cpp)) (C++)
+* [B. Tournament](https://codeforces.com/contest/2123/problem/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/B_Tournament.cpp)) (C++)
+
+#### Rating: 0900 (2 Problems)
+
+* [A. Football](https://codeforces.com/problemset/problem/96/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0900/A_Football.cpp)) (C++)
+* [A. Twins](https://codeforces.com/problemset/problem/160/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0900/A_Twins.cpp)) (C++)
+
+#### Rating: 1000 (2 Problems)
+
+* [A. Young Physicist](https://codeforces.com/problemset/problem/69/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/1000/A_Young_Physicist.cpp)) (C++)
 * [C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/1000/C_Prefix_Min_and_Suffix_Max.cpp)) (C++)
-
-#### Rating: 800 (25 Problems)
-
-* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_A+B_Again3.cpp)) (C++)
-* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_A+B_Again1.cpp)) (C++)
-* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_A+B_Again2.cpp)) (C++)
-* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_A+B_Again4.cpp)) (C++)
-* [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Beautiful_Matrix.cpp)) (C++)
-* [A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Beautiful_Year.cpp)) (C++)
-* [A. Bit++](https://codeforces.com/problemset/problem/282/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Bit++.cpp)) (C++)
-* [A. Blackboard Game](https://codeforces.com/contest/2123/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Blackboard_Game.cpp)) (C++)
-* [A. Domino piling](https://codeforces.com/problemset/problem/50/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Domino_Piling.cpp)) (C++)
-* [A. False Alarm](https://codeforces.com/contest/2117/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_False_Alarm.cpp)) (C++)
-* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Helpful_Maths.cpp)) (C++)
-* [A. Lucky?](https://codeforces.com/problemset/problem/1676/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Lucky.cpp)) (C++)
-* [A. Next Round](https://codeforces.com/problemset/problem/158/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Next_Round.cpp)) (C++)
-* [A. Only One Digit](https://codeforces.com/contest/2126/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Only_One_Digit.cpp)) (C++)
-* [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Petya_and_Strings.cpp)) (C++)
-* [A. Plus or Minus](https://codeforces.com/problemset/problem/1807/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Plus_or_Minus.cpp)) (C++)
-* [A. Team](https://codeforces.com/problemset/problem/231/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Team.cpp)) (C++)
-* [A. Translation](https://codeforces.com/contest/41/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Translation.cpp)) (C++)
-* [A. Vanya and Fence](https://codeforces.com/problemset/problem/677/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Vanya_and_Fence.cpp)) (C++)
-* [A. Watermelon](https://codeforces.com/contest/4/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Watermelon.cpp)) (C++)
-* [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Way_Too_Long_Words.cpp)) (C++)
-* [A. Word](https://codeforces.com/problemset/problem/59/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/A_Word.cpp)) (C++)
-* [B. Drinks](https://codeforces.com/problemset/problem/200/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/B_Drinks.cpp)) (C++)
-* [B. Shrink](https://codeforces.com/contest/2117/problem/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/B_Shrink.cpp)) (C++)
-* [B. Tournament](https://codeforces.com/contest/2123/problem/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/800/B_Tournament.cpp)) (C++)
-
-#### Rating: 900 (2 Problems)
-
-* [A. Football](https://codeforces.com/problemset/problem/96/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/900/A_Football.cpp)) (C++)
-* [A. Twins](https://codeforces.com/problemset/problem/160/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/900/A_Twins.cpp)) (C++)
 
 ## 🧩 Problems by Concept/Tag
 ### Brute Force (3 problems)
 
-* [A. Team](https://codeforces.com/problemset/problem/231/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Watermelon](https://codeforces.com/contest/4/problem/A) (Platform: Codeforces, Category: 800, Lang: C++)
+* [A. Team](https://codeforces.com/problemset/problem/231/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Watermelon](https://codeforces.com/contest/4/problem/A) (Platform: Codeforces, Category: 0800, Lang: C++)
 * [C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) (Platform: Codeforces, Category: 1000, Lang: C++)
 
 ### Constructive Algorithms (1 problems)
 
-* [B. Shrink](https://codeforces.com/contest/2117/problem/B) (Platform: Codeforces, Category: 800, Lang: C++)
+* [B. Shrink](https://codeforces.com/contest/2117/problem/B) (Platform: Codeforces, Category: 0800, Lang: C++)
 
 ### Data Structures (1 problems)
 
@@ -111,67 +112,69 @@ You can easily navigate through the problems:
 
 ### Greedy (6 problems)
 
-* [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. False Alarm](https://codeforces.com/contest/2117/problem/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Team](https://codeforces.com/problemset/problem/231/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Twins](https://codeforces.com/problemset/problem/160/A) (Platform: Codeforces, Category: 900, Lang: C++)
-* [B. Tournament](https://codeforces.com/contest/2123/problem/B) (Platform: Codeforces, Category: 800, Lang: C++)
+* [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. False Alarm](https://codeforces.com/contest/2117/problem/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Team](https://codeforces.com/problemset/problem/231/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Twins](https://codeforces.com/problemset/problem/160/A) (Platform: Codeforces, Category: 0900, Lang: C++)
+* [B. Tournament](https://codeforces.com/contest/2123/problem/B) (Platform: Codeforces, Category: 0800, Lang: C++)
 
-### Implementation (19 problems)
+### Implementation (20 problems)
 
-* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Bit++](https://codeforces.com/problemset/problem/282/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. False Alarm](https://codeforces.com/contest/2117/problem/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Football](https://codeforces.com/problemset/problem/96/A) (Platform: Codeforces, Category: 900, Lang: C++)
-* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Lucky?](https://codeforces.com/problemset/problem/1676/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Next Round](https://codeforces.com/problemset/problem/158/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Only One Digit](https://codeforces.com/contest/2126/problem/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Plus or Minus](https://codeforces.com/problemset/problem/1807/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Translation](https://codeforces.com/contest/41/problem/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Vanya and Fence](https://codeforces.com/problemset/problem/677/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Word](https://codeforces.com/problemset/problem/59/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [B. Drinks](https://codeforces.com/problemset/problem/200/B) (Platform: Codeforces, Category: 800, Lang: C++)
+* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Bit++](https://codeforces.com/problemset/problem/282/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. False Alarm](https://codeforces.com/contest/2117/problem/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Football](https://codeforces.com/problemset/problem/96/A) (Platform: Codeforces, Category: 0900, Lang: C++)
+* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Lucky?](https://codeforces.com/problemset/problem/1676/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Next Round](https://codeforces.com/problemset/problem/158/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Only One Digit](https://codeforces.com/contest/2126/problem/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Plus or Minus](https://codeforces.com/problemset/problem/1807/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Translation](https://codeforces.com/contest/41/problem/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Vanya and Fence](https://codeforces.com/problemset/problem/677/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Word](https://codeforces.com/problemset/problem/59/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Young Physicist](https://codeforces.com/problemset/problem/69/A) (Platform: Codeforces, Category: 1000, Lang: C++)
+* [B. Drinks](https://codeforces.com/problemset/problem/200/B) (Platform: Codeforces, Category: 0800, Lang: C++)
 
-### Math (9 problems)
+### Math (10 problems)
 
-* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Blackboard Game](https://codeforces.com/contest/2123/problem/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Only One Digit](https://codeforces.com/contest/2126/problem/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Watermelon](https://codeforces.com/contest/4/problem/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [B. Drinks](https://codeforces.com/problemset/problem/200/B) (Platform: Codeforces, Category: 800, Lang: C++)
+* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Blackboard Game](https://codeforces.com/contest/2123/problem/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Only One Digit](https://codeforces.com/contest/2126/problem/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Watermelon](https://codeforces.com/contest/4/problem/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Young Physicist](https://codeforces.com/problemset/problem/69/A) (Platform: Codeforces, Category: 1000, Lang: C++)
+* [B. Drinks](https://codeforces.com/problemset/problem/200/B) (Platform: Codeforces, Category: 0800, Lang: C++)
 
 ### Sorting (1 problems)
 
-* [A. Twins](https://codeforces.com/problemset/problem/160/A) (Platform: Codeforces, Category: 900, Lang: C++)
+* [A. Twins](https://codeforces.com/problemset/problem/160/A) (Platform: Codeforces, Category: 0900, Lang: C++)
 
 ### Sortings (1 problems)
 
-* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (Platform: Codeforces, Category: 800, Lang: C++)
+* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (Platform: Codeforces, Category: 0800, Lang: C++)
 
 ### Special Problem (1 problems)
 
-* [A. Next Round](https://codeforces.com/problemset/problem/158/A) (Platform: Codeforces, Category: 800, Lang: C++)
+* [A. Next Round](https://codeforces.com/problemset/problem/158/A) (Platform: Codeforces, Category: 0800, Lang: C++)
 
 ### Strings (6 problems)
 
-* [A. Football](https://codeforces.com/problemset/problem/96/A) (Platform: Codeforces, Category: 900, Lang: C++)
-* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Translation](https://codeforces.com/contest/41/problem/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) (Platform: Codeforces, Category: 800, Lang: C++)
-* [A. Word](https://codeforces.com/problemset/problem/59/A) (Platform: Codeforces, Category: 800, Lang: C++)
+* [A. Football](https://codeforces.com/problemset/problem/96/A) (Platform: Codeforces, Category: 0900, Lang: C++)
+* [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Translation](https://codeforces.com/contest/41/problem/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Word](https://codeforces.com/problemset/problem/59/A) (Platform: Codeforces, Category: 0800, Lang: C++)
 
 ## 🗺️ My Learning Path & Advice
 This section reflects my approach to learning competitive programming across various platforms. It might serve as a guide for others!
@@ -193,4 +196,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2026-03-22 01:42:41 UTC*
+*README generated on 2026-03-22 16:41:57 UTC*
