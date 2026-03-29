@@ -10,25 +10,25 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 - [🤝 Contributions & Feedback](#-contributions--feedback)
 
 ## 📊 Journey Statistics
-![Total Problems Solved](https://img.shields.io/badge/Total_Problems-46-blue)
+![Total Problems Solved](https://img.shields.io/badge/Total_Problems-47-blue)
 
 ### Problem Distribution:
 - **Beecrowd:** 15 problems
   - *01_Beginner:* 15 problems
-- **Codeforces:** 31 problems
-  - *0800:* 26 problems
+- **Codeforces:** 32 problems
+  - *0800:* 27 problems
   - *0900:* 3 problems
   - *1000:* 2 problems
 
 ### Language Usage
-- **C++:** 100.0% (46 problems)
+- **C++:** 100.0% (47 problems)
 
 ### Solving Trend (Problems Solved by Month)
-- **2026-03:** 46 problems
+- **2026-03:** 47 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Domino piling](https://codeforces.com/problemset/problem/50/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Domino_Piling.cpp)) (Platform: Codeforces, Category: 0800, Language: C++)
+* **[Simple Calculate](https://judge.beecrowd.com/en/problems/view/1010)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1010.cpp)) (Platform: Beecrowd, Category: 01_Beginner, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -57,7 +57,7 @@ You can easily navigate through the problems:
 * [The Greatest](https://judge.beecrowd.com/en/problems/view/1013) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1013.cpp)) (C++)
 
 ### Codeforces
-#### Rating: 0800 (26 Problems)
+#### Rating: 0800 (27 Problems)
 
 * [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again4.cpp)) (C++)
 * [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again1.cpp)) (C++)
@@ -68,6 +68,7 @@ You can easily navigate through the problems:
 * [A. Bit++](https://codeforces.com/problemset/problem/282/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Bit++.cpp)) (C++)
 * [A. Blackboard Game](https://codeforces.com/contest/2123/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Blackboard_Game.cpp)) (C++)
 * [A. Codeforces Checking](https://codeforces.com/problemset/problem/1791/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Codeforces_Checking.cpp)) (C++)
+* [A. Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Divisibility_Problem.cpp)) (C++)
 * [A. Domino piling](https://codeforces.com/problemset/problem/50/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Domino_Piling.cpp)) (C++)
 * [A. False Alarm](https://codeforces.com/contest/2117/problem/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_False_Alarm.cpp)) (C++)
 * [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Helpful_Maths.cpp)) (C++)
@@ -145,13 +146,14 @@ You can easily navigate through the problems:
 * [A. Young Physicist](https://codeforces.com/problemset/problem/69/A) (Platform: Codeforces, Category: 1000, Lang: C++)
 * [B. Drinks](https://codeforces.com/problemset/problem/200/B) (Platform: Codeforces, Category: 0800, Lang: C++)
 
-### Math (11 problems)
+### Math (12 problems)
 
 * [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 0800, Lang: C++)
 * [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 0800, Lang: C++)
 * [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 0800, Lang: C++)
 * [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) (Platform: Codeforces, Category: 0800, Lang: C++)
 * [A. Blackboard Game](https://codeforces.com/contest/2123/problem/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [A. Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) (Platform: Codeforces, Category: 0800, Lang: C++)
 * [A. Domino piling](https://codeforces.com/problemset/problem/50/A) (Platform: Codeforces, Category: 0800, Lang: C++)
 * [A. Odd Divisor](https://codeforces.com/problemset/problem/1475/A) (Platform: Codeforces, Category: 0900, Lang: C++)
 * [A. Only One Digit](https://codeforces.com/contest/2126/problem/A) (Platform: Codeforces, Category: 0800, Lang: C++)
@@ -205,4 +207,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2026-03-29 01:50:35 UTC*
+*README generated on 2026-03-29 17:33:41 UTC*
