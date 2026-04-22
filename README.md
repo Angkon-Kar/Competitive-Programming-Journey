@@ -28,7 +28,7 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[Salary](https://judge.beecrowd.com/en/problems/view/1008)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1008.cpp)) (Platform: Beecrowd, Category: 01_Beginner, Language: C++)
+* **[A. A+B Again?](https://codeforces.com/problemset/problem/1999/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again4.cpp)) (Platform: Codeforces, Category: 0800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -59,9 +59,9 @@ You can easily navigate through the problems:
 ### Codeforces
 #### Rating: 0800 (27 Problems)
 
-* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again4.cpp)) (C++)
 * [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again1.cpp)) (C++)
 * [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again2.cpp)) (C++)
+* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again4.cpp)) (C++)
 * [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again3.cpp)) (C++)
 * [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Beautiful_Matrix.cpp)) (C++)
 * [A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Beautiful_Year.cpp)) (C++)
@@ -207,4 +207,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2026-04-21 01:58:16 UTC*
+*README generated on 2026-04-22 01:56:48 UTC*
