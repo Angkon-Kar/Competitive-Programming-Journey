@@ -2,7 +2,7 @@
 // URL: https://codeforces.com/problemset/problem/214/A
 // Tag: Math
 
-// Solved from first equations: a^2 + b = n
+// Solved from second equations: a + b^2 = m
 #include <iostream>
 using namespace std;
 
@@ -11,9 +11,9 @@ int main() {
     cin >> n >> m;
 
     int count = 0;
-    for (int a = 0; a*a <= n; a++){
-        int b = n - a*a;
-        if ((b >= 0) && (a + b*b == m)){
+    for (int b = 0; b*b <= m; b++){
+        int a = m - b*b;
+        if ((a >= 0) && (a*a + b == n)){
             count++;
         }
     }
