@@ -10,25 +10,25 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 - [🤝 Contributions & Feedback](#-contributions--feedback)
 
 ## 📊 Journey Statistics
-![Total Problems Solved](https://img.shields.io/badge/Total_Problems-47-blue)
+![Total Problems Solved](https://img.shields.io/badge/Total_Problems-50-blue)
 
 ### Problem Distribution:
 - **Beecrowd:** 15 problems
   - *01_Beginner:* 15 problems
-- **Codeforces:** 32 problems
-  - *0800:* 27 problems
+- **Codeforces:** 35 problems
+  - *0800:* 30 problems
   - *0900:* 3 problems
   - *1000:* 2 problems
 
 ### Language Usage
-- **C++:** 100.0% (47 problems)
+- **C++:** 100.0% (50 problems)
 
 ### Solving Trend (Problems Solved by Month)
-- **2026-04:** 47 problems
+- **2026-04:** 50 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[Extremely Basic](https://judge.beecrowd.com/en/problems/view/1001)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1001.cpp)) (Platform: Beecrowd, Category: 01_Beginner, Language: C++)
+* **[A. Translation](https://codeforces.com/contest/41/problem/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Translation.cpp)) (Platform: Codeforces, Category: 0800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -57,7 +57,7 @@ You can easily navigate through the problems:
 * [The Greatest](https://judge.beecrowd.com/en/problems/view/1013) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1013.cpp)) (C++)
 
 ### Codeforces
-#### Rating: 0800 (27 Problems)
+#### Rating: 0800 (30 Problems)
 
 * [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again4.cpp)) (C++)
 * [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again1.cpp)) (C++)
@@ -86,6 +86,9 @@ You can easily navigate through the problems:
 * [B. Drinks](https://codeforces.com/problemset/problem/200/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/B_Drinks.cpp)) (C++)
 * [B. Shrink](https://codeforces.com/contest/2117/problem/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/B_Shrink.cpp)) (C++)
 * [B. Tournament](https://codeforces.com/contest/2123/problem/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/B_Tournament.cpp)) (C++)
+* [System of Equations](https://codeforces.com/problemset/problem/214/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_System_of_Equaltions.cpp)) (C++)
+* [System of Equations](https://codeforces.com/problemset/problem/214/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_System_of_Equaltions1.cpp)) (C++)
+* [System of Equations](https://codeforces.com/problemset/problem/214/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_System_of_Equaltions2.cpp)) (C++)
 
 #### Rating: 0900 (3 Problems)
 
@@ -99,11 +102,14 @@ You can easily navigate through the problems:
 * [C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/1000/C_Prefix_Min_and_Suffix_Max.cpp)) (C++)
 
 ## 🧩 Problems by Concept/Tag
-### Brute Force (3 problems)
+### Brute Force (6 problems)
 
 * [A. Team](https://codeforces.com/problemset/problem/231/A) (Platform: Codeforces, Category: 0800, Lang: C++)
 * [A. Watermelon](https://codeforces.com/contest/4/problem/A) (Platform: Codeforces, Category: 0800, Lang: C++)
 * [C. Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) (Platform: Codeforces, Category: 1000, Lang: C++)
+* [System of Equations](https://codeforces.com/problemset/problem/214/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [System of Equations](https://codeforces.com/problemset/problem/214/A) (Platform: Codeforces, Category: 0800, Lang: C++)
+* [System of Equations](https://codeforces.com/problemset/problem/214/A) (Platform: Codeforces, Category: 0800, Lang: C++)
 
 ### Constructive Algorithms (1 problems)
 
@@ -207,4 +213,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2026-04-25 01:51:01 UTC*
+*README generated on 2026-04-25 20:04:49 UTC*
