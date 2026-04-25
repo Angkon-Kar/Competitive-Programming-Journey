@@ -1,6 +1,6 @@
 // Problem: System of Equations
 // URL: https://codeforces.com/problemset/problem/214/A
-// Tag: Math
+// Tag: Brute Force
 
 // Solved from first equations: a^2 + b = n
 #include <iostream>

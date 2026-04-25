@@ -1,6 +1,6 @@
 // Problem: System of Equations
 // URL: https://codeforces.com/problemset/problem/214/A
-// Tag: Math
+// Tag: Brute Force
 
 // Solved from second equations: a + b^2 = m
 #include <iostream>
