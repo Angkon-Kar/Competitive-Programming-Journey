@@ -28,7 +28,7 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. A+B Again?](https://codeforces.com/problemset/problem/1999/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again3.cpp)) (Platform: Codeforces, Category: 0800, Language: C++)
+* **[System of Equations](https://codeforces.com/problemset/problem/214/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_System_of_Equaltions2.cpp)) (Platform: Codeforces, Category: 0800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -59,10 +59,10 @@ You can easily navigate through the problems:
 ### Codeforces
 #### Rating: 0800 (30 Problems)
 
+* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again3.cpp)) (C++)
+* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again2.cpp)) (C++)
 * [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again4.cpp)) (C++)
 * [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again1.cpp)) (C++)
-* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again2.cpp)) (C++)
-* [A. A+B Again?](https://codeforces.com/problemset/problem/1999/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again3.cpp)) (C++)
 * [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Beautiful_Matrix.cpp)) (C++)
 * [A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Beautiful_Year.cpp)) (C++)
 * [A. Bit++](https://codeforces.com/problemset/problem/282/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Bit++.cpp)) (C++)
@@ -86,9 +86,9 @@ You can easily navigate through the problems:
 * [B. Drinks](https://codeforces.com/problemset/problem/200/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/B_Drinks.cpp)) (C++)
 * [B. Shrink](https://codeforces.com/contest/2117/problem/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/B_Shrink.cpp)) (C++)
 * [B. Tournament](https://codeforces.com/contest/2123/problem/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/B_Tournament.cpp)) (C++)
-* [System of Equations](https://codeforces.com/problemset/problem/214/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_System_of_Equaltions.cpp)) (C++)
 * [System of Equations](https://codeforces.com/problemset/problem/214/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_System_of_Equaltions1.cpp)) (C++)
 * [System of Equations](https://codeforces.com/problemset/problem/214/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_System_of_Equaltions2.cpp)) (C++)
+* [System of Equations](https://codeforces.com/problemset/problem/214/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_System_of_Equaltions.cpp)) (C++)
 
 #### Rating: 0900 (3 Problems)
 
@@ -213,4 +213,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2026-05-14 02:33:30 UTC*
+*README generated on 2026-05-15 02:32:57 UTC*
