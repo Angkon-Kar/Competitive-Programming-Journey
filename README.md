@@ -28,7 +28,7 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Next Round](https://codeforces.com/problemset/problem/158/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Next_Round.cpp)) (Platform: Codeforces, Category: 0800, Language: C++)
+* **[A. Blackboard Game](https://codeforces.com/contest/2123/problem/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Blackboard_Game.cpp)) (Platform: Codeforces, Category: 0800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -213,4 +213,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2026-06-23 02:36:47 UTC*
+*README generated on 2026-06-24 02:37:24 UTC*
