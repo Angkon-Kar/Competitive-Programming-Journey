@@ -28,7 +28,7 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Divisibility Problem](https://codeforces.com/problemset/problem/1328/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Divisibility_Problem.cpp)) (Platform: Codeforces, Category: 0800, Language: C++)
+* **[A. A+B Again?](https://codeforces.com/problemset/problem/1999/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_A+B_Again2.cpp)) (Platform: Codeforces, Category: 0800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -87,8 +87,8 @@ You can easily navigate through the problems:
 * [B. Shrink](https://codeforces.com/contest/2117/problem/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/B_Shrink.cpp)) (C++)
 * [B. Tournament](https://codeforces.com/contest/2123/problem/B) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/B_Tournament.cpp)) (C++)
 * [System of Equations](https://codeforces.com/problemset/problem/214/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_System_of_Equaltions1.cpp)) (C++)
-* [System of Equations](https://codeforces.com/problemset/problem/214/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_System_of_Equaltions.cpp)) (C++)
 * [System of Equations](https://codeforces.com/problemset/problem/214/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_System_of_Equaltions2.cpp)) (C++)
+* [System of Equations](https://codeforces.com/problemset/problem/214/A) ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_System_of_Equaltions.cpp)) (C++)
 
 #### Rating: 0900 (3 Problems)
 
@@ -213,4 +213,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2026-07-22 01:58:00 UTC*
+*README generated on 2026-07-23 02:05:44 UTC*
