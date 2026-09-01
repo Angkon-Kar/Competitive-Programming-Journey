@@ -24,11 +24,11 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 - **C++:** 100.0% (51 problems)
 
 ### Solving Trend (Problems Solved by Month)
-- **2026-08:** 51 problems
+- **2026-09:** 51 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. False Alarm](https://codeforces.com/contest/2117/problem/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_False_Alarm.cpp)) (Platform: Codeforces, Category: 0800, Language: C++)
+* **[A. Young Physicist](https://codeforces.com/problemset/problem/69/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/1000/A_Young_Physicist.cpp)) (Platform: Codeforces, Category: 1000, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -219,4 +219,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2026-08-31 02:47:47 UTC*
+*README generated on 2026-09-01 02:57:59 UTC*
