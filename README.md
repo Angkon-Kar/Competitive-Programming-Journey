@@ -28,7 +28,7 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[B. Shrink](https://codeforces.com/contest/2117/problem/B)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/B_Shrink.cpp)) (Platform: Codeforces, Category: 0800, Language: C++)
+* **[A. Young Physicist](https://codeforces.com/problemset/problem/69/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/1000/A_Young_Physicist.cpp)) (Platform: Codeforces, Category: 1000, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -219,4 +219,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2026-09-02 02:18:16 UTC*
+*README generated on 2026-09-03 02:25:29 UTC*
