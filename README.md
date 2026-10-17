@@ -28,7 +28,7 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[A. Team](https://codeforces.com/problemset/problem/231/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Team.cpp)) (Platform: Codeforces, Category: 0800, Language: C++)
+* **[A. Lucky?](https://codeforces.com/problemset/problem/1676/A)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/A_Lucky.cpp)) (Platform: Codeforces, Category: 0800, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -219,4 +219,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2026-10-16 02:35:56 UTC*
+*README generated on 2026-10-17 02:28:04 UTC*
