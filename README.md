@@ -24,11 +24,11 @@ Welcome to my comprehensive collection of solutions from various online judges! 
 - **C++:** 100.0% (51 problems)
 
 ### Solving Trend (Problems Solved by Month)
-- **2026-10:** 51 problems
+- **2026-11:** 51 problems
 
 ## ✨ Spotlight Problem
 Feeling lucky? Here's a random problem from my collection:
-* **[B. Tournament](https://codeforces.com/contest/2123/problem/B)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Codeforces/0800/B_Tournament.cpp)) (Platform: Codeforces, Category: 0800, Language: C++)
+* **[Salary Increase](https://www.beecrowd.com.br/judge/en/problems/view/1048)** ([View Code](https://github.com/Angkon-Kar/Competitive-Programming-Journey/blob/main/Beecrowd/01_Beginner/1048.cpp)) (Platform: Beecrowd, Category: 01_Beginner, Language: C++)
 
 ## 🔍 How to Explore
 You can easily navigate through the problems:
@@ -219,4 +219,4 @@ While this is primarily a personal repository, I welcome feedback and suggestion
 - **Want to use my solutions?** You're welcome to learn from them! Please attribute if you share them publicly.
 
 ---
-*README generated on 2026-10-31 03:35:37 UTC*
+*README generated on 2026-11-01 03:41:28 UTC*
